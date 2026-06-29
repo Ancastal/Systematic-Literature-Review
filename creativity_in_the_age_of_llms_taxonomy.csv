@@ -1,0 +1,810 @@
+Title,Authors,Year,Macrocategory,Subcategory
+FlexMind: Supporting deeper creative thinking with LLMs,Yaqing Yang,2025,Creativity Frameworks,Computational Creativity
+FlexMind: Supporting deeper creative thinking with LLMs,Yaqing Yang,2025,Creativity Frameworks,Logical Creativity
+FlexMind: Supporting deeper creative thinking with LLMs,Yaqing Yang,2025,Relationship to Creativity,Implicit
+FlexMind: Supporting deeper creative thinking with LLMs,Yaqing Yang,2025,Creativity Evaluation Methods,Automatic Metrics
+FlexMind: Supporting deeper creative thinking with LLMs,Yaqing Yang,2025,Creativity Evaluation Methods,Human Evaluation
+FlexMind: Supporting deeper creative thinking with LLMs,Yaqing Yang,2025,Model Scale,Large (>32B)
+FlexMind: Supporting deeper creative thinking with LLMs,Yaqing Yang,2025,Proprietary Models,OpenAI ChatGPT
+FlexMind: Supporting deeper creative thinking with LLMs,Yaqing Yang,2025,Human-In-The-Loop,Human–AI Co-Creation
+FlexMind: Supporting deeper creative thinking with LLMs,Yaqing Yang,2025,Research Focus,Prompt Engineering
+Evaluating AI’s ideas: The role of individual creativity and expertise in human-AI co-creativity,Paul V DiStefano et al.,2025,Creativity Frameworks,Logical Creativity
+Evaluating AI’s ideas: The role of individual creativity and expertise in human-AI co-creativity,Paul V DiStefano et al.,2025,Relationship to Creativity,Explicit
+Evaluating AI’s ideas: The role of individual creativity and expertise in human-AI co-creativity,Paul V DiStefano et al.,2025,Creativity Evaluation Methods,Automatic Metrics
+Evaluating AI’s ideas: The role of individual creativity and expertise in human-AI co-creativity,Paul V DiStefano et al.,2025,Creativity Evaluation Methods,Human Evaluation
+Evaluating AI’s ideas: The role of individual creativity and expertise in human-AI co-creativity,Paul V DiStefano et al.,2025,Model Scale,Large (>32B)
+Evaluating AI’s ideas: The role of individual creativity and expertise in human-AI co-creativity,Paul V DiStefano et al.,2025,Proprietary Models,OpenAI ChatGPT
+Evaluating AI’s ideas: The role of individual creativity and expertise in human-AI co-creativity,Paul V DiStefano et al.,2025,Human-In-The-Loop,Human–AI Co-Creation
+Extending CREAMT: Leveraging Large Language Models for Literary Translation Post-Editing,Antonio Castaldo,2025,Creativity Frameworks,Linguistic Creativity
+Extending CREAMT: Leveraging Large Language Models for Literary Translation Post-Editing,Antonio Castaldo,2025,Relationship to Creativity,Explicit
+Extending CREAMT: Leveraging Large Language Models for Literary Translation Post-Editing,Antonio Castaldo,2025,Creativity Evaluation Methods,Automatic Metrics
+Extending CREAMT: Leveraging Large Language Models for Literary Translation Post-Editing,Antonio Castaldo,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Extending CREAMT: Leveraging Large Language Models for Literary Translation Post-Editing,Antonio Castaldo,2025,Model Scale,Large (>32B)
+Extending CREAMT: Leveraging Large Language Models for Literary Translation Post-Editing,Antonio Castaldo,2025,Proprietary Models,OpenAI ChatGPT
+Extending CREAMT: Leveraging Large Language Models for Literary Translation Post-Editing,Antonio Castaldo,2025,Human-In-The-Loop,Autonomous Generation
+Extending CREAMT: Leveraging Large Language Models for Literary Translation Post-Editing,Antonio Castaldo,2025,Textual Domain,Literary Texts
+Extending CREAMT: Leveraging Large Language Models for Literary Translation Post-Editing,Antonio Castaldo,2025,Level of Analysis,Sentence-Level
+Benchmarking Language Model Creativity: A Case Study on Code Generation,Yining Lu,2025,Creativity Frameworks,Computational Creativity
+Benchmarking Language Model Creativity: A Case Study on Code Generation,Yining Lu,2025,Relationship to Creativity,Explicit
+Benchmarking Language Model Creativity: A Case Study on Code Generation,Yining Lu,2025,Creativity Evaluation Methods,Automatic Metrics
+Benchmarking Language Model Creativity: A Case Study on Code Generation,Yining Lu,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Benchmarking Language Model Creativity: A Case Study on Code Generation,Yining Lu,2025,Creativity Evaluation Methods,Human Evaluation
+Benchmarking Language Model Creativity: A Case Study on Code Generation,Yining Lu,2025,Human-In-The-Loop,Autonomous Generation
+Towards A “Novel” Benchmark: Evaluating Literary Fiction with Large Language Models,Wenqing Wang,2025,Creativity Frameworks,Linguistic Creativity
+Towards A “Novel” Benchmark: Evaluating Literary Fiction with Large Language Models,Wenqing Wang,2025,Relationship to Creativity,Explicit
+Towards A “Novel” Benchmark: Evaluating Literary Fiction with Large Language Models,Wenqing Wang,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Towards A “Novel” Benchmark: Evaluating Literary Fiction with Large Language Models,Wenqing Wang,2025,Creativity Evaluation Methods,Human Evaluation
+Towards A “Novel” Benchmark: Evaluating Literary Fiction with Large Language Models,Wenqing Wang,2025,Model Scale,Large (>32B)
+Towards A “Novel” Benchmark: Evaluating Literary Fiction with Large Language Models,Wenqing Wang,2025,Proprietary Models,Google Gemini
+Towards A “Novel” Benchmark: Evaluating Literary Fiction with Large Language Models,Wenqing Wang,2025,Proprietary Models,OpenAI ChatGPT
+Towards A “Novel” Benchmark: Evaluating Literary Fiction with Large Language Models,Wenqing Wang,2025,Proprietary Models,Anthropic Claude
+Towards A “Novel” Benchmark: Evaluating Literary Fiction with Large Language Models,Wenqing Wang,2025,Human-In-The-Loop,Autonomous Generation
+Towards A “Novel” Benchmark: Evaluating Literary Fiction with Large Language Models,Wenqing Wang,2025,Research Focus,Prompt Engineering
+Towards A “Novel” Benchmark: Evaluating Literary Fiction with Large Language Models,Wenqing Wang,2025,Textual Domain,Literary Texts
+"Can Peter Pan Survive MT? A Stylometric Study of LLMs, NMTs, and HTs in Children’s Literature Translation",Delu Kong,2025,Creativity Frameworks,Linguistic Creativity
+"Can Peter Pan Survive MT? A Stylometric Study of LLMs, NMTs, and HTs in Children’s Literature Translation",Delu Kong,2025,Relationship to Creativity,Implicit
+"Can Peter Pan Survive MT? A Stylometric Study of LLMs, NMTs, and HTs in Children’s Literature Translation",Delu Kong,2025,Creativity Evaluation Methods,Automatic Metrics
+"Can Peter Pan Survive MT? A Stylometric Study of LLMs, NMTs, and HTs in Children’s Literature Translation",Delu Kong,2025,Model Scale,Medium (8-24)
+"Can Peter Pan Survive MT? A Stylometric Study of LLMs, NMTs, and HTs in Children’s Literature Translation",Delu Kong,2025,Model Scale,Large (>32B)
+"Can Peter Pan Survive MT? A Stylometric Study of LLMs, NMTs, and HTs in Children’s Literature Translation",Delu Kong,2025,Proprietary Models,Google Gemini
+"Can Peter Pan Survive MT? A Stylometric Study of LLMs, NMTs, and HTs in Children’s Literature Translation",Delu Kong,2025,Proprietary Models,OpenAI ChatGPT
+"Can Peter Pan Survive MT? A Stylometric Study of LLMs, NMTs, and HTs in Children’s Literature Translation",Delu Kong,2025,Proprietary Models,Anthropic Claude
+"Can Peter Pan Survive MT? A Stylometric Study of LLMs, NMTs, and HTs in Children’s Literature Translation",Delu Kong,2025,Human-In-The-Loop,Autonomous Generation
+"Can Peter Pan Survive MT? A Stylometric Study of LLMs, NMTs, and HTs in Children’s Literature Translation",Delu Kong,2025,Textual Domain,Literary Texts
+"Can Peter Pan Survive MT? A Stylometric Study of LLMs, NMTs, and HTs in Children’s Literature Translation",Delu Kong,2025,Level of Analysis,Document-Level
+Language Model Council: Democratically Benchmarking Foundation Models on Highly Subjective Tasks,Justin Zhao,2025,Creativity Frameworks,Computational Creativity
+Language Model Council: Democratically Benchmarking Foundation Models on Highly Subjective Tasks,Justin Zhao,2025,Creativity Frameworks,Linguistic Creativity
+Language Model Council: Democratically Benchmarking Foundation Models on Highly Subjective Tasks,Justin Zhao,2025,Relationship to Creativity,Implicit
+Language Model Council: Democratically Benchmarking Foundation Models on Highly Subjective Tasks,Justin Zhao,2025,Creativity Evaluation Methods,Automatic Metrics
+Language Model Council: Democratically Benchmarking Foundation Models on Highly Subjective Tasks,Justin Zhao,2025,Creativity Evaluation Methods,LLM-Based Evaluation
+Language Model Council: Democratically Benchmarking Foundation Models on Highly Subjective Tasks,Justin Zhao,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Language Model Council: Democratically Benchmarking Foundation Models on Highly Subjective Tasks,Justin Zhao,2025,Creativity Evaluation Methods,Human Evaluation
+Language Model Council: Democratically Benchmarking Foundation Models on Highly Subjective Tasks,Justin Zhao,2025,Model Scale,Large (>32B)
+Language Model Council: Democratically Benchmarking Foundation Models on Highly Subjective Tasks,Justin Zhao,2025,Proprietary Models,Google Gemini
+Language Model Council: Democratically Benchmarking Foundation Models on Highly Subjective Tasks,Justin Zhao,2025,Proprietary Models,OpenAI ChatGPT
+Language Model Council: Democratically Benchmarking Foundation Models on Highly Subjective Tasks,Justin Zhao,2025,Proprietary Models,Anthropic Claude
+Language Model Council: Democratically Benchmarking Foundation Models on Highly Subjective Tasks,Justin Zhao,2025,Human-In-The-Loop,Autonomous Generation
+Language Model Council: Democratically Benchmarking Foundation Models on Highly Subjective Tasks,Justin Zhao,2025,Research Focus,Prompt Engineering
+Language Model Council: Democratically Benchmarking Foundation Models on Highly Subjective Tasks,Justin Zhao,2025,Textual Domain,Literary Texts
+Top-n𝜎: Eliminating Noise in Logit Space for Robust Token Sampling of LLM,Chenxia Tang,2025,Creativity Frameworks,Linguistic Creativity
+Top-n𝜎: Eliminating Noise in Logit Space for Robust Token Sampling of LLM,Chenxia Tang,2025,Relationship to Creativity,Implicit
+Top-n𝜎: Eliminating Noise in Logit Space for Robust Token Sampling of LLM,Chenxia Tang,2025,Creativity Evaluation Methods,Automatic Metrics
+Top-n𝜎: Eliminating Noise in Logit Space for Robust Token Sampling of LLM,Chenxia Tang,2025,Model Scale,Medium (8-24)
+Top-n𝜎: Eliminating Noise in Logit Space for Robust Token Sampling of LLM,Chenxia Tang,2025,Model Scale,Large (>32B)
+Top-n𝜎: Eliminating Noise in Logit Space for Robust Token Sampling of LLM,Chenxia Tang,2025,Human-In-The-Loop,Autonomous Generation
+Top-n𝜎: Eliminating Noise in Logit Space for Robust Token Sampling of LLM,Chenxia Tang,2025,Research Focus,Creativity-Oriented Training
+Top-n𝜎: Eliminating Noise in Logit Space for Robust Token Sampling of LLM,Chenxia Tang,2025,Research Focus,Architectural Research
+Evaluating the creativity of LLMs in persian literary text generation,Armin Tourajmehr et al.,2025,Creativity Frameworks,Linguistic Creativity
+Evaluating the creativity of LLMs in persian literary text generation,Armin Tourajmehr et al.,2025,Creativity Frameworks,Logical Creativity
+Evaluating the creativity of LLMs in persian literary text generation,Armin Tourajmehr et al.,2025,Relationship to Creativity,Implicit
+Evaluating the creativity of LLMs in persian literary text generation,Armin Tourajmehr et al.,2025,Creativity Evaluation Methods,Automatic Metrics
+Evaluating the creativity of LLMs in persian literary text generation,Armin Tourajmehr et al.,2025,Creativity Evaluation Methods,LLM-Based Evaluation
+Evaluating the creativity of LLMs in persian literary text generation,Armin Tourajmehr et al.,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Evaluating the creativity of LLMs in persian literary text generation,Armin Tourajmehr et al.,2025,Creativity Evaluation Methods,Human Evaluation
+Evaluating the creativity of LLMs in persian literary text generation,Armin Tourajmehr et al.,2025,Model Scale,Small (<3B)
+Evaluating the creativity of LLMs in persian literary text generation,Armin Tourajmehr et al.,2025,Model Scale,Medium (8-24)
+Evaluating the creativity of LLMs in persian literary text generation,Armin Tourajmehr et al.,2025,Model Scale,Large (>32B)
+Evaluating the creativity of LLMs in persian literary text generation,Armin Tourajmehr et al.,2025,Proprietary Models,OpenAI ChatGPT
+Evaluating the creativity of LLMs in persian literary text generation,Armin Tourajmehr et al.,2025,Proprietary Models,Anthropic Claude
+Evaluating the creativity of LLMs in persian literary text generation,Armin Tourajmehr et al.,2025,Human-In-The-Loop,Autonomous Generation
+Evaluating the creativity of LLMs in persian literary text generation,Armin Tourajmehr et al.,2025,Research Focus,Prompt Engineering
+Automated assessment of creativity in multilingual narratives.,Simone A. Luchini et al.,2025,Creativity Frameworks,Linguistic Creativity
+Automated assessment of creativity in multilingual narratives.,Simone A. Luchini et al.,2025,Relationship to Creativity,Explicit
+Automated assessment of creativity in multilingual narratives.,Simone A. Luchini et al.,2025,Creativity Evaluation Methods,Automatic Metrics
+Automated assessment of creativity in multilingual narratives.,Simone A. Luchini et al.,2025,Creativity Evaluation Methods,LLM-Based Evaluation
+Automated assessment of creativity in multilingual narratives.,Simone A. Luchini et al.,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Automated assessment of creativity in multilingual narratives.,Simone A. Luchini et al.,2025,Model Scale,Small (<3B)
+Automated assessment of creativity in multilingual narratives.,Simone A. Luchini et al.,2025,Human-In-The-Loop,Autonomous Generation
+Automated assessment of creativity in multilingual narratives.,Simone A. Luchini et al.,2025,Level of Analysis,Document-Level
+ACT: Knowledgeable Agents to Design and Perform Complex Tasks,Makoto Nakatsuji,2025,Creativity Frameworks,Computational Creativity
+ACT: Knowledgeable Agents to Design and Perform Complex Tasks,Makoto Nakatsuji,2025,Relationship to Creativity,Implicit
+ACT: Knowledgeable Agents to Design and Perform Complex Tasks,Makoto Nakatsuji,2025,Creativity Evaluation Methods,Automatic Metrics
+ACT: Knowledgeable Agents to Design and Perform Complex Tasks,Makoto Nakatsuji,2025,Creativity Evaluation Methods,LLM-Based Evaluation
+ACT: Knowledgeable Agents to Design and Perform Complex Tasks,Makoto Nakatsuji,2025,Creativity Evaluation Methods,Human Evaluation
+ACT: Knowledgeable Agents to Design and Perform Complex Tasks,Makoto Nakatsuji,2025,Model Scale,Large (>32B)
+ACT: Knowledgeable Agents to Design and Perform Complex Tasks,Makoto Nakatsuji,2025,Proprietary Models,OpenAI ChatGPT
+ACT: Knowledgeable Agents to Design and Perform Complex Tasks,Makoto Nakatsuji,2025,Human-In-The-Loop,Autonomous Generation
+ACT: Knowledgeable Agents to Design and Perform Complex Tasks,Makoto Nakatsuji,2025,Research Focus,Agent-Based Approaches
+CharacterGPT: A Persona Reconstruction Framework for Role-Playing Agents,Jeiyoon Park,2025,Creativity Frameworks,Linguistic Creativity
+CharacterGPT: A Persona Reconstruction Framework for Role-Playing Agents,Jeiyoon Park,2025,Relationship to Creativity,Implicit
+CharacterGPT: A Persona Reconstruction Framework for Role-Playing Agents,Jeiyoon Park,2025,Creativity Evaluation Methods,Human Evaluation
+CharacterGPT: A Persona Reconstruction Framework for Role-Playing Agents,Jeiyoon Park,2025,Model Scale,Large (>32B)
+CharacterGPT: A Persona Reconstruction Framework for Role-Playing Agents,Jeiyoon Park,2025,Proprietary Models,OpenAI ChatGPT
+CharacterGPT: A Persona Reconstruction Framework for Role-Playing Agents,Jeiyoon Park,2025,Human-In-The-Loop,Autonomous Generation
+CharacterGPT: A Persona Reconstruction Framework for Role-Playing Agents,Jeiyoon Park,2025,Research Focus,Prompt Engineering
+Automating evaluation of creativity in LLMs with semantic entropy and efficient multi-agent judge,Tan Min Sen et al.,2025,Creativity Frameworks,Computational Creativity
+Automating evaluation of creativity in LLMs with semantic entropy and efficient multi-agent judge,Tan Min Sen et al.,2025,Creativity Frameworks,Logical Creativity
+Automating evaluation of creativity in LLMs with semantic entropy and efficient multi-agent judge,Tan Min Sen et al.,2025,Relationship to Creativity,Explicit
+Automating evaluation of creativity in LLMs with semantic entropy and efficient multi-agent judge,Tan Min Sen et al.,2025,Creativity Evaluation Methods,Automatic Metrics
+Automating evaluation of creativity in LLMs with semantic entropy and efficient multi-agent judge,Tan Min Sen et al.,2025,Creativity Evaluation Methods,LLM-Based Evaluation
+Automating evaluation of creativity in LLMs with semantic entropy and efficient multi-agent judge,Tan Min Sen et al.,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Automating evaluation of creativity in LLMs with semantic entropy and efficient multi-agent judge,Tan Min Sen et al.,2025,Creativity Evaluation Methods,Human Evaluation
+Automating evaluation of creativity in LLMs with semantic entropy and efficient multi-agent judge,Tan Min Sen et al.,2025,Model Scale,Medium (8-24)
+Automating evaluation of creativity in LLMs with semantic entropy and efficient multi-agent judge,Tan Min Sen et al.,2025,Model Scale,Large (>32B)
+Automating evaluation of creativity in LLMs with semantic entropy and efficient multi-agent judge,Tan Min Sen et al.,2025,Proprietary Models,OpenAI ChatGPT
+Automating evaluation of creativity in LLMs with semantic entropy and efficient multi-agent judge,Tan Min Sen et al.,2025,Human-In-The-Loop,Autonomous Generation
+Automating evaluation of creativity in LLMs with semantic entropy and efficient multi-agent judge,Tan Min Sen et al.,2025,Level of Analysis,Sentence-Level
+Break-Ideate-Generate (BrIdGe): Moving beyond Translations for Localization using LLMs,Swapnil Gupta,2025,Creativity Frameworks,Linguistic Creativity
+Break-Ideate-Generate (BrIdGe): Moving beyond Translations for Localization using LLMs,Swapnil Gupta,2025,Relationship to Creativity,Implicit
+Break-Ideate-Generate (BrIdGe): Moving beyond Translations for Localization using LLMs,Swapnil Gupta,2025,Creativity Evaluation Methods,Automatic Metrics
+Break-Ideate-Generate (BrIdGe): Moving beyond Translations for Localization using LLMs,Swapnil Gupta,2025,Creativity Evaluation Methods,Human Evaluation
+Break-Ideate-Generate (BrIdGe): Moving beyond Translations for Localization using LLMs,Swapnil Gupta,2025,Proprietary Models,OpenAI ChatGPT
+Break-Ideate-Generate (BrIdGe): Moving beyond Translations for Localization using LLMs,Swapnil Gupta,2025,Proprietary Models,Anthropic Claude
+Break-Ideate-Generate (BrIdGe): Moving beyond Translations for Localization using LLMs,Swapnil Gupta,2025,Human-In-The-Loop,Autonomous Generation
+Break-Ideate-Generate (BrIdGe): Moving beyond Translations for Localization using LLMs,Swapnil Gupta,2025,Research Focus,Prompt Engineering
+Break-Ideate-Generate (BrIdGe): Moving beyond Translations for Localization using LLMs,Swapnil Gupta,2025,Textual Domain,Literary Texts
+Help Me Write a Story: Evaluating LLMs’ Ability to Generate Writing Feedback,Hannah Rashkin,2025,Creativity Frameworks,Linguistic Creativity
+Help Me Write a Story: Evaluating LLMs’ Ability to Generate Writing Feedback,Hannah Rashkin,2025,Relationship to Creativity,Implicit
+Help Me Write a Story: Evaluating LLMs’ Ability to Generate Writing Feedback,Hannah Rashkin,2025,Creativity Evaluation Methods,Automatic Metrics
+Help Me Write a Story: Evaluating LLMs’ Ability to Generate Writing Feedback,Hannah Rashkin,2025,Creativity Evaluation Methods,Human Evaluation
+Help Me Write a Story: Evaluating LLMs’ Ability to Generate Writing Feedback,Hannah Rashkin,2025,Model Scale,Large (>32B)
+Help Me Write a Story: Evaluating LLMs’ Ability to Generate Writing Feedback,Hannah Rashkin,2025,Proprietary Models,Google Gemini
+Help Me Write a Story: Evaluating LLMs’ Ability to Generate Writing Feedback,Hannah Rashkin,2025,Proprietary Models,OpenAI ChatGPT
+Help Me Write a Story: Evaluating LLMs’ Ability to Generate Writing Feedback,Hannah Rashkin,2025,Human-In-The-Loop,Human–AI Co-Creation
+Help Me Write a Story: Evaluating LLMs’ Ability to Generate Writing Feedback,Hannah Rashkin,2025,Textual Domain,Literary Texts
+Help Me Write a Story: Evaluating LLMs’ Ability to Generate Writing Feedback,Hannah Rashkin,2025,Level of Analysis,Document-Level
+RISCORE: Enhancing In-Context Riddle Solving in Language Models through Context-Reconstructed Example Augmentation,Ioannis Panagiotopoulos,2025,Creativity Frameworks,Logical Creativity
+RISCORE: Enhancing In-Context Riddle Solving in Language Models through Context-Reconstructed Example Augmentation,Ioannis Panagiotopoulos,2025,Relationship to Creativity,Implicit
+RISCORE: Enhancing In-Context Riddle Solving in Language Models through Context-Reconstructed Example Augmentation,Ioannis Panagiotopoulos,2025,Creative Phenomena Studied,Wordplay
+RISCORE: Enhancing In-Context Riddle Solving in Language Models through Context-Reconstructed Example Augmentation,Ioannis Panagiotopoulos,2025,Creative Phenomena Studied,Logics
+RISCORE: Enhancing In-Context Riddle Solving in Language Models through Context-Reconstructed Example Augmentation,Ioannis Panagiotopoulos,2025,Model Scale,Small (<3B)
+RISCORE: Enhancing In-Context Riddle Solving in Language Models through Context-Reconstructed Example Augmentation,Ioannis Panagiotopoulos,2025,Model Scale,Medium (8-24)
+RISCORE: Enhancing In-Context Riddle Solving in Language Models through Context-Reconstructed Example Augmentation,Ioannis Panagiotopoulos,2025,Human-In-The-Loop,Autonomous Generation
+RISCORE: Enhancing In-Context Riddle Solving in Language Models through Context-Reconstructed Example Augmentation,Ioannis Panagiotopoulos,2025,Research Focus,Prompt Engineering
+Building Japanese Creativity Benchmarks and Applying them to Enhance LLM Creativity,So Fukuda,2025,Creativity Frameworks,Logical Creativity
+Building Japanese Creativity Benchmarks and Applying them to Enhance LLM Creativity,So Fukuda,2025,Relationship to Creativity,Explicit
+Building Japanese Creativity Benchmarks and Applying them to Enhance LLM Creativity,So Fukuda,2025,Creativity Evaluation Methods,Automatic Metrics
+Building Japanese Creativity Benchmarks and Applying them to Enhance LLM Creativity,So Fukuda,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Building Japanese Creativity Benchmarks and Applying them to Enhance LLM Creativity,So Fukuda,2025,Creativity Evaluation Methods,Human Evaluation
+Building Japanese Creativity Benchmarks and Applying them to Enhance LLM Creativity,So Fukuda,2025,Model Scale,Small (<3B)
+Building Japanese Creativity Benchmarks and Applying them to Enhance LLM Creativity,So Fukuda,2025,Model Scale,Medium (8-24)
+Building Japanese Creativity Benchmarks and Applying them to Enhance LLM Creativity,So Fukuda,2025,Human-In-The-Loop,Autonomous Generation
+Small Language Models can Outperform Humans in Short Creative Writing: A Study Comparing SLMs with Humans and LLMs,Guillermo Marco,2025,Creativity Frameworks,Linguistic Creativity
+Small Language Models can Outperform Humans in Short Creative Writing: A Study Comparing SLMs with Humans and LLMs,Guillermo Marco,2025,Relationship to Creativity,Implicit
+Small Language Models can Outperform Humans in Short Creative Writing: A Study Comparing SLMs with Humans and LLMs,Guillermo Marco,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Small Language Models can Outperform Humans in Short Creative Writing: A Study Comparing SLMs with Humans and LLMs,Guillermo Marco,2025,Creativity Evaluation Methods,Human Evaluation
+Small Language Models can Outperform Humans in Short Creative Writing: A Study Comparing SLMs with Humans and LLMs,Guillermo Marco,2025,Model Scale,Small (<3B)
+Small Language Models can Outperform Humans in Short Creative Writing: A Study Comparing SLMs with Humans and LLMs,Guillermo Marco,2025,Model Scale,Large (>32B)
+Small Language Models can Outperform Humans in Short Creative Writing: A Study Comparing SLMs with Humans and LLMs,Guillermo Marco,2025,Proprietary Models,OpenAI ChatGPT
+Small Language Models can Outperform Humans in Short Creative Writing: A Study Comparing SLMs with Humans and LLMs,Guillermo Marco,2025,Human-In-The-Loop,Autonomous Generation
+Small Language Models can Outperform Humans in Short Creative Writing: A Study Comparing SLMs with Humans and LLMs,Guillermo Marco,2025,Textual Domain,Literary Texts
+Creativity or brute force? Using brainteasers as a window into the problem-solving abilities of large language models,Simeng Han,2025,Creativity Frameworks,Logical Creativity
+Creativity or brute force? Using brainteasers as a window into the problem-solving abilities of large language models,Simeng Han,2025,Relationship to Creativity,Explicit
+Creativity or brute force? Using brainteasers as a window into the problem-solving abilities of large language models,Simeng Han,2025,Creative Phenomena Studied,Wordplay
+Creativity or brute force? Using brainteasers as a window into the problem-solving abilities of large language models,Simeng Han,2025,Creative Phenomena Studied,Logics
+Creativity or brute force? Using brainteasers as a window into the problem-solving abilities of large language models,Simeng Han,2025,Creativity Evaluation Methods,LLM-Based Evaluation
+Creativity or brute force? Using brainteasers as a window into the problem-solving abilities of large language models,Simeng Han,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Creativity or brute force? Using brainteasers as a window into the problem-solving abilities of large language models,Simeng Han,2025,Creativity Evaluation Methods,Human Evaluation
+Creativity or brute force? Using brainteasers as a window into the problem-solving abilities of large language models,Simeng Han,2025,Model Scale,Small (<3B)
+Creativity or brute force? Using brainteasers as a window into the problem-solving abilities of large language models,Simeng Han,2025,Model Scale,Medium (8-24)
+Creativity or brute force? Using brainteasers as a window into the problem-solving abilities of large language models,Simeng Han,2025,Model Scale,Large (>32B)
+Creativity or brute force? Using brainteasers as a window into the problem-solving abilities of large language models,Simeng Han,2025,Proprietary Models,Google Gemini
+Creativity or brute force? Using brainteasers as a window into the problem-solving abilities of large language models,Simeng Han,2025,Proprietary Models,OpenAI ChatGPT
+Creativity or brute force? Using brainteasers as a window into the problem-solving abilities of large language models,Simeng Han,2025,Proprietary Models,Anthropic Claude
+Creativity or brute force? Using brainteasers as a window into the problem-solving abilities of large language models,Simeng Han,2025,Human-In-The-Loop,Autonomous Generation
+Creativity or brute force? Using brainteasers as a window into the problem-solving abilities of large language models,Simeng Han,2025,Research Focus,Prompt Engineering
+Creativity or brute force? Using brainteasers as a window into the problem-solving abilities of large language models,Simeng Han,2025,Research Focus,Architectural Research
+Creativity or brute force? Using brainteasers as a window into the problem-solving abilities of large language models,Simeng Han,2025,Level of Analysis,Document-Level
+Base models beat aligned models at randomness and creativity,Peter West,2025,Creativity Frameworks,Computational Creativity
+Base models beat aligned models at randomness and creativity,Peter West,2025,Creativity Frameworks,Logical Creativity
+Base models beat aligned models at randomness and creativity,Peter West,2025,Relationship to Creativity,Implicit
+Base models beat aligned models at randomness and creativity,Peter West,2025,Creative Phenomena Studied,Logics
+Base models beat aligned models at randomness and creativity,Peter West,2025,Creativity Evaluation Methods,Human Evaluation
+Base models beat aligned models at randomness and creativity,Peter West,2025,Human-In-The-Loop,Autonomous Generation
+Base models beat aligned models at randomness and creativity,Peter West,2025,Textual Domain,Poetry
+"Creative Planning with Language Models: Practice, Evaluation and Applications",Alexander Spangher,2025,Creativity Frameworks,Computational Creativity
+"Creative Planning with Language Models: Practice, Evaluation and Applications",Alexander Spangher,2025,Creativity Frameworks,Logical Creativity
+"Creative Planning with Language Models: Practice, Evaluation and Applications",Alexander Spangher,2025,Relationship to Creativity,Explicit
+"Creative Planning with Language Models: Practice, Evaluation and Applications",Alexander Spangher,2025,Human-In-The-Loop,Autonomous Generation
+AI as humanity's salieri: Quantifying linguistic creativity of language models via systematic attribution of machine text against web text,Ximing Lu et al.,2025,Creativity Frameworks,Linguistic Creativity
+AI as humanity's salieri: Quantifying linguistic creativity of language models via systematic attribution of machine text against web text,Ximing Lu et al.,2025,Relationship to Creativity,Implicit
+AI as humanity's salieri: Quantifying linguistic creativity of language models via systematic attribution of machine text against web text,Ximing Lu et al.,2025,Creativity Evaluation Methods,Automatic Metrics
+AI as humanity's salieri: Quantifying linguistic creativity of language models via systematic attribution of machine text against web text,Ximing Lu et al.,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+AI as humanity's salieri: Quantifying linguistic creativity of language models via systematic attribution of machine text against web text,Ximing Lu et al.,2025,Model Scale,Medium (8-24)
+AI as humanity's salieri: Quantifying linguistic creativity of language models via systematic attribution of machine text against web text,Ximing Lu et al.,2025,Model Scale,Large (>32B)
+AI as humanity's salieri: Quantifying linguistic creativity of language models via systematic attribution of machine text against web text,Ximing Lu et al.,2025,Proprietary Models,OpenAI ChatGPT
+AI as humanity's salieri: Quantifying linguistic creativity of language models via systematic attribution of machine text against web text,Ximing Lu et al.,2025,Human-In-The-Loop,Autonomous Generation
+AI as humanity's salieri: Quantifying linguistic creativity of language models via systematic attribution of machine text against web text,Ximing Lu et al.,2025,Research Focus,Prompt Engineering
+AI as humanity's salieri: Quantifying linguistic creativity of language models via systematic attribution of machine text against web text,Ximing Lu et al.,2025,Research Focus,Architectural Research
+AI as humanity's salieri: Quantifying linguistic creativity of language models via systematic attribution of machine text against web text,Ximing Lu et al.,2025,Textual Domain,Literary Texts
+AI as humanity's salieri: Quantifying linguistic creativity of language models via systematic attribution of machine text against web text,Ximing Lu et al.,2025,Textual Domain,Poetry
+AI as humanity's salieri: Quantifying linguistic creativity of language models via systematic attribution of machine text against web text,Ximing Lu et al.,2025,Level of Analysis,Document-Level
+Assessing creativity across multi-step intervention using generative AI models,Eran Hadas and Arnon Hershkovitz,2025,Creativity Frameworks,Logical Creativity
+Assessing creativity across multi-step intervention using generative AI models,Eran Hadas and Arnon Hershkovitz,2025,Relationship to Creativity,Explicit
+Assessing creativity across multi-step intervention using generative AI models,Eran Hadas and Arnon Hershkovitz,2025,Creativity Evaluation Methods,Automatic Metrics
+Assessing creativity across multi-step intervention using generative AI models,Eran Hadas and Arnon Hershkovitz,2025,Creativity Evaluation Methods,LLM-Based Evaluation
+Assessing creativity across multi-step intervention using generative AI models,Eran Hadas and Arnon Hershkovitz,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Assessing creativity across multi-step intervention using generative AI models,Eran Hadas and Arnon Hershkovitz,2025,Human-In-The-Loop,Autonomous Generation
+Assessing creativity across multi-step intervention using generative AI models,Eran Hadas and Arnon Hershkovitz,2025,Level of Analysis,Sentence-Level
+Assessing the creativity of LLMs in proposing novel solutions to mathematical problems,Junyi Ye et al.,2025,Creativity Frameworks,Computational Creativity
+Assessing the creativity of LLMs in proposing novel solutions to mathematical problems,Junyi Ye et al.,2025,Creativity Frameworks,Logical Creativity
+Assessing the creativity of LLMs in proposing novel solutions to mathematical problems,Junyi Ye et al.,2025,Relationship to Creativity,Implicit
+Assessing the creativity of LLMs in proposing novel solutions to mathematical problems,Junyi Ye et al.,2025,Creativity Evaluation Methods,Automatic Metrics
+Assessing the creativity of LLMs in proposing novel solutions to mathematical problems,Junyi Ye et al.,2025,Creativity Evaluation Methods,LLM-Based Evaluation
+Assessing the creativity of LLMs in proposing novel solutions to mathematical problems,Junyi Ye et al.,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Assessing the creativity of LLMs in proposing novel solutions to mathematical problems,Junyi Ye et al.,2025,Creativity Evaluation Methods,Human Evaluation
+Assessing the creativity of LLMs in proposing novel solutions to mathematical problems,Junyi Ye et al.,2025,Model Scale,Large (>32B)
+Assessing the creativity of LLMs in proposing novel solutions to mathematical problems,Junyi Ye et al.,2025,Proprietary Models,Google Gemini
+Assessing the creativity of LLMs in proposing novel solutions to mathematical problems,Junyi Ye et al.,2025,Proprietary Models,OpenAI ChatGPT
+Assessing the creativity of LLMs in proposing novel solutions to mathematical problems,Junyi Ye et al.,2025,Proprietary Models,Anthropic Claude
+Assessing the creativity of LLMs in proposing novel solutions to mathematical problems,Junyi Ye et al.,2025,Human-In-The-Loop,Autonomous Generation
+BILLY: Steering large language models via merging persona vectors for creative generation,Tsung-Min Pai,2025,Creativity Frameworks,Logical Creativity
+BILLY: Steering large language models via merging persona vectors for creative generation,Tsung-Min Pai,2025,Relationship to Creativity,Implicit
+BILLY: Steering large language models via merging persona vectors for creative generation,Tsung-Min Pai,2025,Creativity Evaluation Methods,LLM-Based Evaluation
+BILLY: Steering large language models via merging persona vectors for creative generation,Tsung-Min Pai,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+BILLY: Steering large language models via merging persona vectors for creative generation,Tsung-Min Pai,2025,Model Scale,Medium (8-24)
+BILLY: Steering large language models via merging persona vectors for creative generation,Tsung-Min Pai,2025,Human-In-The-Loop,Autonomous Generation
+BILLY: Steering large language models via merging persona vectors for creative generation,Tsung-Min Pai,2025,Research Focus,Architectural Research
+BILLY: Steering large language models via merging persona vectors for creative generation,Tsung-Min Pai,2025,Level of Analysis,Document-Level
+Cooking up creativity: Enhancing LLM creativity through structured recombination,Moran Mizrahi,2025,Creativity Frameworks,Computational Creativity
+Cooking up creativity: Enhancing LLM creativity through structured recombination,Moran Mizrahi,2025,Creativity Frameworks,Logical Creativity
+Cooking up creativity: Enhancing LLM creativity through structured recombination,Moran Mizrahi,2025,Relationship to Creativity,Explicit
+Cooking up creativity: Enhancing LLM creativity through structured recombination,Moran Mizrahi,2025,Creativity Evaluation Methods,Automatic Metrics
+Cooking up creativity: Enhancing LLM creativity through structured recombination,Moran Mizrahi,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Cooking up creativity: Enhancing LLM creativity through structured recombination,Moran Mizrahi,2025,Creativity Evaluation Methods,Human Evaluation
+Cooking up creativity: Enhancing LLM creativity through structured recombination,Moran Mizrahi,2025,Model Scale,Large (>32B)
+Cooking up creativity: Enhancing LLM creativity through structured recombination,Moran Mizrahi,2025,Proprietary Models,OpenAI ChatGPT
+Cooking up creativity: Enhancing LLM creativity through structured recombination,Moran Mizrahi,2025,Human-In-The-Loop,Autonomous Generation
+Cooking up creativity: Enhancing LLM creativity through structured recombination,Moran Mizrahi,2025,Research Focus,Prompt Engineering
+Cooking up creativity: Enhancing LLM creativity through structured recombination,Moran Mizrahi,2025,Research Focus,Architectural Research
+Cooking up creativity: Enhancing LLM creativity through structured recombination,Moran Mizrahi,2025,Level of Analysis,Document-Level
+Creativity Benchmark: A benchmark for marketing creativity for large language models,Ninad Bhat et al.,2025,Creativity Frameworks,Computational Creativity
+Creativity Benchmark: A benchmark for marketing creativity for large language models,Ninad Bhat et al.,2025,Relationship to Creativity,Explicit
+Creativity Benchmark: A benchmark for marketing creativity for large language models,Ninad Bhat et al.,2025,Creative Phenomena Studied,Logics
+Creativity Benchmark: A benchmark for marketing creativity for large language models,Ninad Bhat et al.,2025,Creativity Evaluation Methods,Automatic Metrics
+Creativity Benchmark: A benchmark for marketing creativity for large language models,Ninad Bhat et al.,2025,Creativity Evaluation Methods,LLM-Based Evaluation
+Creativity Benchmark: A benchmark for marketing creativity for large language models,Ninad Bhat et al.,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Creativity Benchmark: A benchmark for marketing creativity for large language models,Ninad Bhat et al.,2025,Creativity Evaluation Methods,Human Evaluation
+Creativity Benchmark: A benchmark for marketing creativity for large language models,Ninad Bhat et al.,2025,Model Scale,Large (>32B)
+Creativity Benchmark: A benchmark for marketing creativity for large language models,Ninad Bhat et al.,2025,Proprietary Models,Google Gemini
+Creativity Benchmark: A benchmark for marketing creativity for large language models,Ninad Bhat et al.,2025,Proprietary Models,OpenAI ChatGPT
+Creativity Benchmark: A benchmark for marketing creativity for large language models,Ninad Bhat et al.,2025,Proprietary Models,Anthropic Claude
+Creativity Benchmark: A benchmark for marketing creativity for large language models,Ninad Bhat et al.,2025,Human-In-The-Loop,Autonomous Generation
+Creativity Benchmark: A benchmark for marketing creativity for large language models,Ninad Bhat et al.,2025,Level of Analysis,Document-Level
+Creativity in LLM-based multi-agent systems: a survey,Yi-Cheng Lin,2025,Creativity Frameworks,Computational Creativity
+Creativity in LLM-based multi-agent systems: a survey,Yi-Cheng Lin,2025,Relationship to Creativity,Implicit
+Creativity in LLM-based multi-agent systems: a survey,Yi-Cheng Lin,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Creativity in LLM-based multi-agent systems: a survey,Yi-Cheng Lin,2025,Human-In-The-Loop,Autonomous Generation
+Creativity in LLM-based multi-agent systems: a survey,Yi-Cheng Lin,2025,Research Focus,Agent-Based Approaches
+CreativityPrism: a holistic benchmark for large language model creativity,Zhaoyi Joey Hou,2025,Creativity Frameworks,Logical Creativity
+CreativityPrism: a holistic benchmark for large language model creativity,Zhaoyi Joey Hou,2025,Relationship to Creativity,Explicit
+CreativityPrism: a holistic benchmark for large language model creativity,Zhaoyi Joey Hou,2025,Creative Phenomena Studied,Logics
+CreativityPrism: a holistic benchmark for large language model creativity,Zhaoyi Joey Hou,2025,Creativity Evaluation Methods,Automatic Metrics
+CreativityPrism: a holistic benchmark for large language model creativity,Zhaoyi Joey Hou,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+CreativityPrism: a holistic benchmark for large language model creativity,Zhaoyi Joey Hou,2025,Model Scale,Medium (8-24)
+CreativityPrism: a holistic benchmark for large language model creativity,Zhaoyi Joey Hou,2025,Human-In-The-Loop,Autonomous Generation
+CreativityPrism: a holistic benchmark for large language model creativity,Zhaoyi Joey Hou,2025,Textual Domain,Literary Texts
+CreativityPrism: a holistic benchmark for large language model creativity,Zhaoyi Joey Hou,2025,Textual Domain,Poetry
+CreativityPrism: a holistic benchmark for large language model creativity,Zhaoyi Joey Hou,2025,Level of Analysis,Word-Level
+Curiosity-driven LLM-as-a-judge for personalized creative judgment,Vanya Bannihatti Kumar,2025,Creativity Frameworks,Linguistic Creativity
+Curiosity-driven LLM-as-a-judge for personalized creative judgment,Vanya Bannihatti Kumar,2025,Creativity Frameworks,Logical Creativity
+Curiosity-driven LLM-as-a-judge for personalized creative judgment,Vanya Bannihatti Kumar,2025,Relationship to Creativity,Implicit
+Curiosity-driven LLM-as-a-judge for personalized creative judgment,Vanya Bannihatti Kumar,2025,Creativity Evaluation Methods,Automatic Metrics
+Curiosity-driven LLM-as-a-judge for personalized creative judgment,Vanya Bannihatti Kumar,2025,Creativity Evaluation Methods,LLM-Based Evaluation
+Curiosity-driven LLM-as-a-judge for personalized creative judgment,Vanya Bannihatti Kumar,2025,Creativity Evaluation Methods,Human Evaluation
+Curiosity-driven LLM-as-a-judge for personalized creative judgment,Vanya Bannihatti Kumar,2025,Model Scale,Small (<3B)
+Curiosity-driven LLM-as-a-judge for personalized creative judgment,Vanya Bannihatti Kumar,2025,Model Scale,Medium (8-24)
+Curiosity-driven LLM-as-a-judge for personalized creative judgment,Vanya Bannihatti Kumar,2025,Human-In-The-Loop,Autonomous Generation
+Curiosity-driven LLM-as-a-judge for personalized creative judgment,Vanya Bannihatti Kumar,2025,Research Focus,Architectural Research
+Curiosity-driven LLM-as-a-judge for personalized creative judgment,Vanya Bannihatti Kumar,2025,Textual Domain,Literary Texts
+Curiosity-driven LLM-as-a-judge for personalized creative judgment,Vanya Bannihatti Kumar,2025,Level of Analysis,Document-Level
+E.A.R.T.H.: Structuring creative evolution through model error in generative AI,Yusen Peng,2025,Creativity Frameworks,Linguistic Creativity
+E.A.R.T.H.: Structuring creative evolution through model error in generative AI,Yusen Peng,2025,Relationship to Creativity,Implicit
+E.A.R.T.H.: Structuring creative evolution through model error in generative AI,Yusen Peng,2025,Creative Phenomena Studied,Wordplay
+E.A.R.T.H.: Structuring creative evolution through model error in generative AI,Yusen Peng,2025,Creativity Evaluation Methods,Automatic Metrics
+E.A.R.T.H.: Structuring creative evolution through model error in generative AI,Yusen Peng,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+E.A.R.T.H.: Structuring creative evolution through model error in generative AI,Yusen Peng,2025,Creativity Evaluation Methods,Human Evaluation
+E.A.R.T.H.: Structuring creative evolution through model error in generative AI,Yusen Peng,2025,Model Scale,Medium (8-24)
+E.A.R.T.H.: Structuring creative evolution through model error in generative AI,Yusen Peng,2025,Human-In-The-Loop,Autonomous Generation
+E.A.R.T.H.: Structuring creative evolution through model error in generative AI,Yusen Peng,2025,Research Focus,Prompt Engineering
+Exploring automated assessment of primary students' creativity in a flow-based music programming environment,Zifeng Liu et al.,2025,Creativity Frameworks,Logical Creativity
+Exploring automated assessment of primary students' creativity in a flow-based music programming environment,Zifeng Liu et al.,2025,Relationship to Creativity,Explicit
+Exploring automated assessment of primary students' creativity in a flow-based music programming environment,Zifeng Liu et al.,2025,Creativity Evaluation Methods,Automatic Metrics
+Exploring automated assessment of primary students' creativity in a flow-based music programming environment,Zifeng Liu et al.,2025,Creativity Evaluation Methods,LLM-Based Evaluation
+Exploring automated assessment of primary students' creativity in a flow-based music programming environment,Zifeng Liu et al.,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Exploring automated assessment of primary students' creativity in a flow-based music programming environment,Zifeng Liu et al.,2025,Human-In-The-Loop,Autonomous Generation
+Galton's law of mediocrity: Why large language models regress to the mean and fail at creativity in advertising,Matt Keon,2025,Creativity Frameworks,Computational Creativity
+Galton's law of mediocrity: Why large language models regress to the mean and fail at creativity in advertising,Matt Keon,2025,Creativity Frameworks,Linguistic Creativity
+Galton's law of mediocrity: Why large language models regress to the mean and fail at creativity in advertising,Matt Keon,2025,Relationship to Creativity,Implicit
+Galton's law of mediocrity: Why large language models regress to the mean and fail at creativity in advertising,Matt Keon,2025,Creativity Evaluation Methods,Automatic Metrics
+Galton's law of mediocrity: Why large language models regress to the mean and fail at creativity in advertising,Matt Keon,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Galton's law of mediocrity: Why large language models regress to the mean and fail at creativity in advertising,Matt Keon,2025,Creativity Evaluation Methods,Human Evaluation
+Galton's law of mediocrity: Why large language models regress to the mean and fail at creativity in advertising,Matt Keon,2025,Model Scale,Small (<3B)
+Galton's law of mediocrity: Why large language models regress to the mean and fail at creativity in advertising,Matt Keon,2025,Human-In-The-Loop,Autonomous Generation
+Galton's law of mediocrity: Why large language models regress to the mean and fail at creativity in advertising,Matt Keon,2025,Research Focus,Architectural Research
+Galton's law of mediocrity: Why large language models regress to the mean and fail at creativity in advertising,Matt Keon,2025,Level of Analysis,Sentence-Level
+How do hackathons foster creativity? Towards automated evaluation of creativity at scale,Jeanette Falk et al.,2025,Creativity Frameworks,Computational Creativity
+How do hackathons foster creativity? Towards automated evaluation of creativity at scale,Jeanette Falk et al.,2025,Relationship to Creativity,Explicit
+How do hackathons foster creativity? Towards automated evaluation of creativity at scale,Jeanette Falk et al.,2025,Creativity Evaluation Methods,Automatic Metrics
+How do hackathons foster creativity? Towards automated evaluation of creativity at scale,Jeanette Falk et al.,2025,Creativity Evaluation Methods,LLM-Based Evaluation
+How do hackathons foster creativity? Towards automated evaluation of creativity at scale,Jeanette Falk et al.,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+How do hackathons foster creativity? Towards automated evaluation of creativity at scale,Jeanette Falk et al.,2025,Model Scale,Medium (8-24)
+How do hackathons foster creativity? Towards automated evaluation of creativity at scale,Jeanette Falk et al.,2025,Human-In-The-Loop,Autonomous Generation
+Human creativity in the age of LLMs: Randomized experiments on divergent and convergent thinking,Harsh Kumar et al.,2025,Creativity Frameworks,Logical Creativity
+Human creativity in the age of LLMs: Randomized experiments on divergent and convergent thinking,Harsh Kumar et al.,2025,Relationship to Creativity,Explicit
+Human creativity in the age of LLMs: Randomized experiments on divergent and convergent thinking,Harsh Kumar et al.,2025,Creative Phenomena Studied,Logics
+Human creativity in the age of LLMs: Randomized experiments on divergent and convergent thinking,Harsh Kumar et al.,2025,Creativity Evaluation Methods,Automatic Metrics
+Human creativity in the age of LLMs: Randomized experiments on divergent and convergent thinking,Harsh Kumar et al.,2025,Creativity Evaluation Methods,LLM-Based Evaluation
+Human creativity in the age of LLMs: Randomized experiments on divergent and convergent thinking,Harsh Kumar et al.,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Human creativity in the age of LLMs: Randomized experiments on divergent and convergent thinking,Harsh Kumar et al.,2025,Model Scale,Large (>32B)
+Human creativity in the age of LLMs: Randomized experiments on divergent and convergent thinking,Harsh Kumar et al.,2025,Proprietary Models,OpenAI ChatGPT
+Human creativity in the age of LLMs: Randomized experiments on divergent and convergent thinking,Harsh Kumar et al.,2025,Human-In-The-Loop,Autonomous Generation
+Modifying large language model post-training for diverse creative writing,John Joon Young Chung,2025,Creativity Frameworks,Linguistic Creativity
+Modifying large language model post-training for diverse creative writing,John Joon Young Chung,2025,Relationship to Creativity,Implicit
+Modifying large language model post-training for diverse creative writing,John Joon Young Chung,2025,Creativity Evaluation Methods,Automatic Metrics
+Modifying large language model post-training for diverse creative writing,John Joon Young Chung,2025,Model Scale,Medium (8-24)
+Modifying large language model post-training for diverse creative writing,John Joon Young Chung,2025,Human-In-The-Loop,Autonomous Generation
+Modifying large language model post-training for diverse creative writing,John Joon Young Chung,2025,Research Focus,Creativity-Oriented Training
+Modifying large language model post-training for diverse creative writing,John Joon Young Chung,2025,Research Focus,Architectural Research
+Modifying large language model post-training for diverse creative writing,John Joon Young Chung,2025,Textual Domain,Literary Texts
+Modifying large language model post-training for diverse creative writing,John Joon Young Chung,2025,Level of Analysis,Document-Level
+Style over story: a process-oriented study of authorial creativity in large language models,Donghoon Jung et al.,2025,Creativity Frameworks,Linguistic Creativity
+Style over story: a process-oriented study of authorial creativity in large language models,Donghoon Jung et al.,2025,Relationship to Creativity,Implicit
+Style over story: a process-oriented study of authorial creativity in large language models,Donghoon Jung et al.,2025,Creativity Evaluation Methods,Automatic Metrics
+Style over story: a process-oriented study of authorial creativity in large language models,Donghoon Jung et al.,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Style over story: a process-oriented study of authorial creativity in large language models,Donghoon Jung et al.,2025,Proprietary Models,Google Gemini
+Style over story: a process-oriented study of authorial creativity in large language models,Donghoon Jung et al.,2025,Proprietary Models,OpenAI ChatGPT
+Style over story: a process-oriented study of authorial creativity in large language models,Donghoon Jung et al.,2025,Proprietary Models,Anthropic Claude
+Style over story: a process-oriented study of authorial creativity in large language models,Donghoon Jung et al.,2025,Human-In-The-Loop,Autonomous Generation
+Style over story: a process-oriented study of authorial creativity in large language models,Donghoon Jung et al.,2025,Research Focus,Prompt Engineering
+Style over story: a process-oriented study of authorial creativity in large language models,Donghoon Jung et al.,2025,Textual Domain,Literary Texts
+Style over story: a process-oriented study of authorial creativity in large language models,Donghoon Jung et al.,2025,Level of Analysis,Document-Level
+The effects of (dis)similarities between the creator and the assessor on assessing creativity: a comparison of humans and LLMs,Martin ‘t Hof et al.,2025,Creativity Frameworks,Logical Creativity
+The effects of (dis)similarities between the creator and the assessor on assessing creativity: a comparison of humans and LLMs,Martin ‘t Hof et al.,2025,Relationship to Creativity,Implicit
+The effects of (dis)similarities between the creator and the assessor on assessing creativity: a comparison of humans and LLMs,Martin ‘t Hof et al.,2025,Creativity Evaluation Methods,Automatic Metrics
+The effects of (dis)similarities between the creator and the assessor on assessing creativity: a comparison of humans and LLMs,Martin ‘t Hof et al.,2025,Creativity Evaluation Methods,LLM-Based Evaluation
+The effects of (dis)similarities between the creator and the assessor on assessing creativity: a comparison of humans and LLMs,Martin ‘t Hof et al.,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+The effects of (dis)similarities between the creator and the assessor on assessing creativity: a comparison of humans and LLMs,Martin ‘t Hof et al.,2025,Creativity Evaluation Methods,Human Evaluation
+The effects of (dis)similarities between the creator and the assessor on assessing creativity: a comparison of humans and LLMs,Martin ‘t Hof et al.,2025,Proprietary Models,OpenAI ChatGPT
+The effects of (dis)similarities between the creator and the assessor on assessing creativity: a comparison of humans and LLMs,Martin ‘t Hof et al.,2025,Human-In-The-Loop,Autonomous Generation
+The effects of (dis)similarities between the creator and the assessor on assessing creativity: a comparison of humans and LLMs,Martin ‘t Hof et al.,2025,Level of Analysis,Document-Level
+"We're different, we're the same: Creative homogeneity across LLMs",Emily Wenger,2025,Creativity Frameworks,Logical Creativity
+"We're different, we're the same: Creative homogeneity across LLMs",Emily Wenger,2025,Relationship to Creativity,Explicit
+"We're different, we're the same: Creative homogeneity across LLMs",Emily Wenger,2025,Creativity Evaluation Methods,Automatic Metrics
+"We're different, we're the same: Creative homogeneity across LLMs",Emily Wenger,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+"We're different, we're the same: Creative homogeneity across LLMs",Emily Wenger,2025,Creativity Evaluation Methods,Human Evaluation
+"We're different, we're the same: Creative homogeneity across LLMs",Emily Wenger,2025,Model Scale,Small (<3B)
+"We're different, we're the same: Creative homogeneity across LLMs",Emily Wenger,2025,Model Scale,Medium (8-24)
+"We're different, we're the same: Creative homogeneity across LLMs",Emily Wenger,2025,Model Scale,Large (>32B)
+"We're different, we're the same: Creative homogeneity across LLMs",Emily Wenger,2025,Proprietary Models,Google Gemini
+"We're different, we're the same: Creative homogeneity across LLMs",Emily Wenger,2025,Proprietary Models,OpenAI ChatGPT
+"We're different, we're the same: Creative homogeneity across LLMs",Emily Wenger,2025,Human-In-The-Loop,Human–AI Co-Creation
+"We're different, we're the same: Creative homogeneity across LLMs",Emily Wenger,2025,Research Focus,Prompt Engineering
+"We're different, we're the same: Creative homogeneity across LLMs",Emily Wenger,2025,Research Focus,Architectural Research
+What shapes a creative machine mind? Comprehensively benchmarking creativity in foundation models,Zicong He et al.,2025,Creativity Frameworks,Computational Creativity
+What shapes a creative machine mind? Comprehensively benchmarking creativity in foundation models,Zicong He et al.,2025,Creativity Frameworks,Logical Creativity
+What shapes a creative machine mind? Comprehensively benchmarking creativity in foundation models,Zicong He et al.,2025,Relationship to Creativity,Explicit
+What shapes a creative machine mind? Comprehensively benchmarking creativity in foundation models,Zicong He et al.,2025,Creativity Evaluation Methods,Automatic Metrics
+What shapes a creative machine mind? Comprehensively benchmarking creativity in foundation models,Zicong He et al.,2025,Creativity Evaluation Methods,LLM-Based Evaluation
+What shapes a creative machine mind? Comprehensively benchmarking creativity in foundation models,Zicong He et al.,2025,Creativity Evaluation Methods,Creativity-Specific Evaluation
+What shapes a creative machine mind? Comprehensively benchmarking creativity in foundation models,Zicong He et al.,2025,Creativity Evaluation Methods,Human Evaluation
+What shapes a creative machine mind? Comprehensively benchmarking creativity in foundation models,Zicong He et al.,2025,Model Scale,Medium (8-24)
+What shapes a creative machine mind? Comprehensively benchmarking creativity in foundation models,Zicong He et al.,2025,Model Scale,Large (>32B)
+What shapes a creative machine mind? Comprehensively benchmarking creativity in foundation models,Zicong He et al.,2025,Proprietary Models,OpenAI ChatGPT
+What shapes a creative machine mind? Comprehensively benchmarking creativity in foundation models,Zicong He et al.,2025,Proprietary Models,Anthropic Claude
+What shapes a creative machine mind? Comprehensively benchmarking creativity in foundation models,Zicong He et al.,2025,Human-In-The-Loop,Autonomous Generation
+Automating Humor: A Novel Approach to Joke Generation Using Template Extraction and Infilling,Mayank Goel,2024,Creativity Frameworks,Linguistic Creativity
+Automating Humor: A Novel Approach to Joke Generation Using Template Extraction and Infilling,Mayank Goel,2024,Relationship to Creativity,Implicit
+Automating Humor: A Novel Approach to Joke Generation Using Template Extraction and Infilling,Mayank Goel,2024,Creative Phenomena Studied,Humor
+Automating Humor: A Novel Approach to Joke Generation Using Template Extraction and Infilling,Mayank Goel,2024,Creativity Evaluation Methods,Automatic Metrics
+Automating Humor: A Novel Approach to Joke Generation Using Template Extraction and Infilling,Mayank Goel,2024,Model Scale,Small (<3B)
+Automating Humor: A Novel Approach to Joke Generation Using Template Extraction and Infilling,Mayank Goel,2024,Proprietary Models,OpenAI ChatGPT
+Automating Humor: A Novel Approach to Joke Generation Using Template Extraction and Infilling,Mayank Goel,2024,Human-In-The-Loop,Autonomous Generation
+Automating Humor: A Novel Approach to Joke Generation Using Template Extraction and Infilling,Mayank Goel,2024,Research Focus,Prompt Engineering
+Automating Humor: A Novel Approach to Joke Generation Using Template Extraction and Infilling,Mayank Goel,2024,Level of Analysis,Document-Level
+Do LLMs agree on the creativity evaluation of alternative uses?,Abdullah Al Rabeyah et al.,2024,Creativity Frameworks,Linguistic Creativity
+Do LLMs agree on the creativity evaluation of alternative uses?,Abdullah Al Rabeyah et al.,2024,Relationship to Creativity,Explicit
+Do LLMs agree on the creativity evaluation of alternative uses?,Abdullah Al Rabeyah et al.,2024,Creative Phenomena Studied,Logics
+Do LLMs agree on the creativity evaluation of alternative uses?,Abdullah Al Rabeyah et al.,2024,Creativity Evaluation Methods,Automatic Metrics
+Do LLMs agree on the creativity evaluation of alternative uses?,Abdullah Al Rabeyah et al.,2024,Creativity Evaluation Methods,LLM-Based Evaluation
+Do LLMs agree on the creativity evaluation of alternative uses?,Abdullah Al Rabeyah et al.,2024,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Do LLMs agree on the creativity evaluation of alternative uses?,Abdullah Al Rabeyah et al.,2024,Model Scale,Large (>32B)
+Do LLMs agree on the creativity evaluation of alternative uses?,Abdullah Al Rabeyah et al.,2024,Proprietary Models,Google Gemini
+Do LLMs agree on the creativity evaluation of alternative uses?,Abdullah Al Rabeyah et al.,2024,Proprietary Models,OpenAI ChatGPT
+Do LLMs agree on the creativity evaluation of alternative uses?,Abdullah Al Rabeyah et al.,2024,Proprietary Models,Anthropic Claude
+Do LLMs agree on the creativity evaluation of alternative uses?,Abdullah Al Rabeyah et al.,2024,Human-In-The-Loop,Autonomous Generation
+Little Red Riding Hood Goes around the Globe: Crosslingual Story Planning and Generation with Large Language Models,Evgeniia Razumovskaia,2024,Creativity Frameworks,Linguistic Creativity
+Little Red Riding Hood Goes around the Globe: Crosslingual Story Planning and Generation with Large Language Models,Evgeniia Razumovskaia,2024,Relationship to Creativity,Implicit
+Little Red Riding Hood Goes around the Globe: Crosslingual Story Planning and Generation with Large Language Models,Evgeniia Razumovskaia,2024,Creativity Evaluation Methods,Automatic Metrics
+Little Red Riding Hood Goes around the Globe: Crosslingual Story Planning and Generation with Large Language Models,Evgeniia Razumovskaia,2024,Creativity Evaluation Methods,Human Evaluation
+Little Red Riding Hood Goes around the Globe: Crosslingual Story Planning and Generation with Large Language Models,Evgeniia Razumovskaia,2024,Human-In-The-Loop,Autonomous Generation
+Little Red Riding Hood Goes around the Globe: Crosslingual Story Planning and Generation with Large Language Models,Evgeniia Razumovskaia,2024,Research Focus,Prompt Engineering
+Little Red Riding Hood Goes around the Globe: Crosslingual Story Planning and Generation with Large Language Models,Evgeniia Razumovskaia,2024,Textual Domain,Literary Texts
+Creative Problem Solving in Large Language and Vision Models - What Would it Take?,Lakshmi Nair,2024,Creativity Frameworks,Computational Creativity
+Creative Problem Solving in Large Language and Vision Models - What Would it Take?,Lakshmi Nair,2024,Creativity Frameworks,Logical Creativity
+Creative Problem Solving in Large Language and Vision Models - What Would it Take?,Lakshmi Nair,2024,Relationship to Creativity,Explicit
+Creative Problem Solving in Large Language and Vision Models - What Would it Take?,Lakshmi Nair,2024,Creativity Evaluation Methods,Automatic Metrics
+Creative Problem Solving in Large Language and Vision Models - What Would it Take?,Lakshmi Nair,2024,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Creative Problem Solving in Large Language and Vision Models - What Would it Take?,Lakshmi Nair,2024,Human-In-The-Loop,Autonomous Generation
+Automated scoring of scientific creativity in german,Benjamin Goecke et al.,2024,Creativity Frameworks,Logical Creativity
+Automated scoring of scientific creativity in german,Benjamin Goecke et al.,2024,Relationship to Creativity,Implicit
+Automated scoring of scientific creativity in german,Benjamin Goecke et al.,2024,Creativity Evaluation Methods,Automatic Metrics
+Automated scoring of scientific creativity in german,Benjamin Goecke et al.,2024,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Automated scoring of scientific creativity in german,Benjamin Goecke et al.,2024,Creativity Evaluation Methods,Human Evaluation
+Automated scoring of scientific creativity in german,Benjamin Goecke et al.,2024,Model Scale,Small (<3B)
+Automated scoring of scientific creativity in german,Benjamin Goecke et al.,2024,Human-In-The-Loop,Autonomous Generation
+Automated scoring of scientific creativity in german,Benjamin Goecke et al.,2024,Level of Analysis,Document-Level
+Homogenizing effect of large language model on creativity: An empirical comparison of human and ChatGPT writing,Kibum Moon,2024,Creativity Frameworks,Computational Creativity
+Homogenizing effect of large language model on creativity: An empirical comparison of human and ChatGPT writing,Kibum Moon,2024,Relationship to Creativity,Explicit
+Homogenizing effect of large language model on creativity: An empirical comparison of human and ChatGPT writing,Kibum Moon,2024,Creativity Evaluation Methods,Automatic Metrics
+Homogenizing effect of large language model on creativity: An empirical comparison of human and ChatGPT writing,Kibum Moon,2024,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Homogenizing effect of large language model on creativity: An empirical comparison of human and ChatGPT writing,Kibum Moon,2024,Model Scale,Large (>32B)
+Homogenizing effect of large language model on creativity: An empirical comparison of human and ChatGPT writing,Kibum Moon,2024,Proprietary Models,OpenAI ChatGPT
+Homogenizing effect of large language model on creativity: An empirical comparison of human and ChatGPT writing,Kibum Moon,2024,Human-In-The-Loop,Autonomous Generation
+Homogenizing effect of large language model on creativity: An empirical comparison of human and ChatGPT writing,Kibum Moon,2024,Research Focus,Prompt Engineering
+Homogenizing effect of large language model on creativity: An empirical comparison of human and ChatGPT writing,Kibum Moon,2024,Research Focus,Architectural Research
+Weaver: Foundation models for creative writing,Tiannan Wang,2024,Creativity Frameworks,Linguistic Creativity
+Weaver: Foundation models for creative writing,Tiannan Wang,2024,Relationship to Creativity,Implicit
+Weaver: Foundation models for creative writing,Tiannan Wang,2024,Creativity Evaluation Methods,LLM-Based Evaluation
+Weaver: Foundation models for creative writing,Tiannan Wang,2024,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Weaver: Foundation models for creative writing,Tiannan Wang,2024,Creativity Evaluation Methods,Human Evaluation
+Weaver: Foundation models for creative writing,Tiannan Wang,2024,Model Scale,Small (<3B)
+Weaver: Foundation models for creative writing,Tiannan Wang,2024,Model Scale,Medium (8-24)
+Weaver: Foundation models for creative writing,Tiannan Wang,2024,Model Scale,Large (>32B)
+Weaver: Foundation models for creative writing,Tiannan Wang,2024,Proprietary Models,Google Gemini
+Weaver: Foundation models for creative writing,Tiannan Wang,2024,Proprietary Models,OpenAI ChatGPT
+Weaver: Foundation models for creative writing,Tiannan Wang,2024,Proprietary Models,Anthropic Claude
+Weaver: Foundation models for creative writing,Tiannan Wang,2024,Human-In-The-Loop,Human–AI Co-Creation
+Weaver: Foundation models for creative writing,Tiannan Wang,2024,Research Focus,Agent-Based Approaches
+Weaver: Foundation models for creative writing,Tiannan Wang,2024,Research Focus,Creativity-Oriented Training
+Weaver: Foundation models for creative writing,Tiannan Wang,2024,Research Focus,Architectural Research
+Weaver: Foundation models for creative writing,Tiannan Wang,2024,Textual Domain,Literary Texts
+Weaver: Foundation models for creative writing,Tiannan Wang,2024,Level of Analysis,Document-Level
+Evaluating creativity and deception in large language models: a simulation framework for multi-agent balderdash,Parsa Hejabi et al.,2024,Creativity Frameworks,Linguistic Creativity
+Evaluating creativity and deception in large language models: a simulation framework for multi-agent balderdash,Parsa Hejabi et al.,2024,Relationship to Creativity,Implicit
+Evaluating creativity and deception in large language models: a simulation framework for multi-agent balderdash,Parsa Hejabi et al.,2024,Creativity Evaluation Methods,Automatic Metrics
+Evaluating creativity and deception in large language models: a simulation framework for multi-agent balderdash,Parsa Hejabi et al.,2024,Creativity Evaluation Methods,LLM-Based Evaluation
+Evaluating creativity and deception in large language models: a simulation framework for multi-agent balderdash,Parsa Hejabi et al.,2024,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Evaluating creativity and deception in large language models: a simulation framework for multi-agent balderdash,Parsa Hejabi et al.,2024,Creativity Evaluation Methods,Human Evaluation
+Evaluating creativity and deception in large language models: a simulation framework for multi-agent balderdash,Parsa Hejabi et al.,2024,Model Scale,Small (<3B)
+Evaluating creativity and deception in large language models: a simulation framework for multi-agent balderdash,Parsa Hejabi et al.,2024,Model Scale,Medium (8-24)
+Evaluating creativity and deception in large language models: a simulation framework for multi-agent balderdash,Parsa Hejabi et al.,2024,Human-In-The-Loop,Autonomous Generation
+Evaluating creativity and deception in large language models: a simulation framework for multi-agent balderdash,Parsa Hejabi et al.,2024,Level of Analysis,Document-Level
+Luminate: Structured generation and exploration of design space with large language models for human-AI co-creation,Sangho Suh et al.,2024,Creativity Frameworks,Linguistic Creativity
+Luminate: Structured generation and exploration of design space with large language models for human-AI co-creation,Sangho Suh et al.,2024,Creativity Frameworks,Logical Creativity
+Luminate: Structured generation and exploration of design space with large language models for human-AI co-creation,Sangho Suh et al.,2024,Relationship to Creativity,Implicit
+Luminate: Structured generation and exploration of design space with large language models for human-AI co-creation,Sangho Suh et al.,2024,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Luminate: Structured generation and exploration of design space with large language models for human-AI co-creation,Sangho Suh et al.,2024,Creativity Evaluation Methods,Human Evaluation
+Luminate: Structured generation and exploration of design space with large language models for human-AI co-creation,Sangho Suh et al.,2024,Proprietary Models,OpenAI ChatGPT
+Luminate: Structured generation and exploration of design space with large language models for human-AI co-creation,Sangho Suh et al.,2024,Human-In-The-Loop,Human–AI Co-Creation
+Luminate: Structured generation and exploration of design space with large language models for human-AI co-creation,Sangho Suh et al.,2024,Research Focus,Prompt Engineering
+Luminate: Structured generation and exploration of design space with large language models for human-AI co-creation,Sangho Suh et al.,2024,Textual Domain,Literary Texts
+Luminate: Structured generation and exploration of design space with large language models for human-AI co-creation,Sangho Suh et al.,2024,Textual Domain,Poetry
+Small But Funny: A Feedback-Driven Approach to Humor Distillation,Sahithya Ravi,2024,Creativity Frameworks,Linguistic Creativity
+Small But Funny: A Feedback-Driven Approach to Humor Distillation,Sahithya Ravi,2024,Relationship to Creativity,Implicit
+Small But Funny: A Feedback-Driven Approach to Humor Distillation,Sahithya Ravi,2024,Creative Phenomena Studied,Humor
+Small But Funny: A Feedback-Driven Approach to Humor Distillation,Sahithya Ravi,2024,Creativity Evaluation Methods,Automatic Metrics
+Small But Funny: A Feedback-Driven Approach to Humor Distillation,Sahithya Ravi,2024,Model Scale,Small (<3B)
+Small But Funny: A Feedback-Driven Approach to Humor Distillation,Sahithya Ravi,2024,Model Scale,Medium (8-24)
+Small But Funny: A Feedback-Driven Approach to Humor Distillation,Sahithya Ravi,2024,Human-In-The-Loop,Autonomous Generation
+HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing,Jing Chen,2024,Creativity Frameworks,Linguistic Creativity
+HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing,Jing Chen,2024,Relationship to Creativity,Implicit
+HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing,Jing Chen,2024,Creativity Evaluation Methods,Automatic Metrics
+HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing,Jing Chen,2024,Creativity Evaluation Methods,LLM-Based Evaluation
+HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing,Jing Chen,2024,Human-In-The-Loop,Autonomous Generation
+HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing,Jing Chen,2024,Research Focus,Prompt Engineering
+HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing,Jing Chen,2024,Research Focus,Agent-Based Approaches
+HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing,Jing Chen,2024,Textual Domain,Multimodal Narrative
+Mathemyths: Leveraging large language models to teach mathematical language through child-AI co-creative storytelling,Chao Zhang,2024,Creativity Frameworks,Linguistic Creativity
+Mathemyths: Leveraging large language models to teach mathematical language through child-AI co-creative storytelling,Chao Zhang,2024,Relationship to Creativity,Implicit
+Mathemyths: Leveraging large language models to teach mathematical language through child-AI co-creative storytelling,Chao Zhang,2024,Creativity Evaluation Methods,Human Evaluation
+Mathemyths: Leveraging large language models to teach mathematical language through child-AI co-creative storytelling,Chao Zhang,2024,Model Scale,Large (>32B)
+Mathemyths: Leveraging large language models to teach mathematical language through child-AI co-creative storytelling,Chao Zhang,2024,Proprietary Models,OpenAI ChatGPT
+Mathemyths: Leveraging large language models to teach mathematical language through child-AI co-creative storytelling,Chao Zhang,2024,Human-In-The-Loop,Human–AI Co-Creation
+Mathemyths: Leveraging large language models to teach mathematical language through child-AI co-creative storytelling,Chao Zhang,2024,Research Focus,Prompt Engineering
+“A good pun is its own reword”: Can Large Language Models Understand Puns?,Zhijun Xu,2024,Creativity Frameworks,Linguistic Creativity
+“A good pun is its own reword”: Can Large Language Models Understand Puns?,Zhijun Xu,2024,Relationship to Creativity,Implicit
+“A good pun is its own reword”: Can Large Language Models Understand Puns?,Zhijun Xu,2024,Creative Phenomena Studied,Wordplay
+“A good pun is its own reword”: Can Large Language Models Understand Puns?,Zhijun Xu,2024,Creative Phenomena Studied,Humor
+“A good pun is its own reword”: Can Large Language Models Understand Puns?,Zhijun Xu,2024,Creativity Evaluation Methods,Automatic Metrics
+“A good pun is its own reword”: Can Large Language Models Understand Puns?,Zhijun Xu,2024,Model Scale,Medium (8-24)
+“A good pun is its own reword”: Can Large Language Models Understand Puns?,Zhijun Xu,2024,Model Scale,Large (>32B)
+“A good pun is its own reword”: Can Large Language Models Understand Puns?,Zhijun Xu,2024,Proprietary Models,Google Gemini
+“A good pun is its own reword”: Can Large Language Models Understand Puns?,Zhijun Xu,2024,Proprietary Models,OpenAI ChatGPT
+“A good pun is its own reword”: Can Large Language Models Understand Puns?,Zhijun Xu,2024,Proprietary Models,Anthropic Claude
+“A good pun is its own reword”: Can Large Language Models Understand Puns?,Zhijun Xu,2024,Human-In-The-Loop,Autonomous Generation
+“A good pun is its own reword”: Can Large Language Models Understand Puns?,Zhijun Xu,2024,Research Focus,Prompt Engineering
+Exploring the Capability of Multimodal LLMs with Yonkoma Manga: The YManga Dataset and Its Challenging Tasks,Qi Yang,2024,Creativity Frameworks,Linguistic Creativity
+Exploring the Capability of Multimodal LLMs with Yonkoma Manga: The YManga Dataset and Its Challenging Tasks,Qi Yang,2024,Relationship to Creativity,Implicit
+Exploring the Capability of Multimodal LLMs with Yonkoma Manga: The YManga Dataset and Its Challenging Tasks,Qi Yang,2024,Model Scale,Small (<3B)
+Exploring the Capability of Multimodal LLMs with Yonkoma Manga: The YManga Dataset and Its Challenging Tasks,Qi Yang,2024,Model Scale,Large (>32B)
+Exploring the Capability of Multimodal LLMs with Yonkoma Manga: The YManga Dataset and Its Challenging Tasks,Qi Yang,2024,Proprietary Models,OpenAI ChatGPT
+Exploring the Capability of Multimodal LLMs with Yonkoma Manga: The YManga Dataset and Its Challenging Tasks,Qi Yang,2024,Human-In-The-Loop,Autonomous Generation
+Exploring the Capability of Multimodal LLMs with Yonkoma Manga: The YManga Dataset and Its Challenging Tasks,Qi Yang,2024,Textual Domain,Multimodal Narrative
+Measuring Psychological Depth in Language Models,Fabrice Y. Harel-Canada,2024,Creativity Frameworks,Linguistic Creativity
+Measuring Psychological Depth in Language Models,Fabrice Y. Harel-Canada,2024,Relationship to Creativity,Implicit
+Measuring Psychological Depth in Language Models,Fabrice Y. Harel-Canada,2024,Creative Phenomena Studied,Figurative Language
+Measuring Psychological Depth in Language Models,Fabrice Y. Harel-Canada,2024,Creativity Evaluation Methods,Human Evaluation
+Measuring Psychological Depth in Language Models,Fabrice Y. Harel-Canada,2024,Model Scale,Large (>32B)
+Measuring Psychological Depth in Language Models,Fabrice Y. Harel-Canada,2024,Proprietary Models,OpenAI ChatGPT
+Measuring Psychological Depth in Language Models,Fabrice Y. Harel-Canada,2024,Human-In-The-Loop,Autonomous Generation
+Measuring Psychological Depth in Language Models,Fabrice Y. Harel-Canada,2024,Research Focus,Prompt Engineering
+Measuring Psychological Depth in Language Models,Fabrice Y. Harel-Canada,2024,Textual Domain,Literary Texts
+Measuring Psychological Depth in Language Models,Fabrice Y. Harel-Canada,2024,Level of Analysis,Word-Level
+The current state of artificial intelligence generative language models is more creative than humans on divergent thinking tasks,Kent F. Hubert et al.,2024,Creativity Frameworks,Logical Creativity
+The current state of artificial intelligence generative language models is more creative than humans on divergent thinking tasks,Kent F. Hubert et al.,2024,Relationship to Creativity,Explicit
+The current state of artificial intelligence generative language models is more creative than humans on divergent thinking tasks,Kent F. Hubert et al.,2024,Creative Phenomena Studied,Logics
+The current state of artificial intelligence generative language models is more creative than humans on divergent thinking tasks,Kent F. Hubert et al.,2024,Creativity Evaluation Methods,Creativity-Specific Evaluation
+The current state of artificial intelligence generative language models is more creative than humans on divergent thinking tasks,Kent F. Hubert et al.,2024,Creativity Evaluation Methods,Human Evaluation
+The current state of artificial intelligence generative language models is more creative than humans on divergent thinking tasks,Kent F. Hubert et al.,2024,Model Scale,Large (>32B)
+The current state of artificial intelligence generative language models is more creative than humans on divergent thinking tasks,Kent F. Hubert et al.,2024,Proprietary Models,OpenAI ChatGPT
+The current state of artificial intelligence generative language models is more creative than humans on divergent thinking tasks,Kent F. Hubert et al.,2024,Human-In-The-Loop,Autonomous Generation
+Creative beam search: LLM-as-a-judge for improving response generation,Giorgio Franceschelli,2024,Creativity Frameworks,Logical Creativity
+Creative beam search: LLM-as-a-judge for improving response generation,Giorgio Franceschelli,2024,Relationship to Creativity,Explicit
+Creative beam search: LLM-as-a-judge for improving response generation,Giorgio Franceschelli,2024,Creativity Evaluation Methods,LLM-Based Evaluation
+Creative beam search: LLM-as-a-judge for improving response generation,Giorgio Franceschelli,2024,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Creative beam search: LLM-as-a-judge for improving response generation,Giorgio Franceschelli,2024,Creativity Evaluation Methods,Human Evaluation
+Creative beam search: LLM-as-a-judge for improving response generation,Giorgio Franceschelli,2024,Model Scale,Medium (8-24)
+Creative beam search: LLM-as-a-judge for improving response generation,Giorgio Franceschelli,2024,Human-In-The-Loop,Autonomous Generation
+Creative beam search: LLM-as-a-judge for improving response generation,Giorgio Franceschelli,2024,Research Focus,Architectural Research
+Creative beam search: LLM-as-a-judge for improving response generation,Giorgio Franceschelli,2024,Level of Analysis,Document-Level
+An integrated benchmark for verbal creativity testing of LLMs and humans,Anca Dinu and Andra Maria Florescu,2024,Creativity Frameworks,Computational Creativity
+An integrated benchmark for verbal creativity testing of LLMs and humans,Anca Dinu and Andra Maria Florescu,2024,Creativity Frameworks,Logical Creativity
+An integrated benchmark for verbal creativity testing of LLMs and humans,Anca Dinu and Andra Maria Florescu,2024,Relationship to Creativity,Explicit
+An integrated benchmark for verbal creativity testing of LLMs and humans,Anca Dinu and Andra Maria Florescu,2024,Creative Phenomena Studied,Logics
+An integrated benchmark for verbal creativity testing of LLMs and humans,Anca Dinu and Andra Maria Florescu,2024,Creativity Evaluation Methods,Automatic Metrics
+An integrated benchmark for verbal creativity testing of LLMs and humans,Anca Dinu and Andra Maria Florescu,2024,Creativity Evaluation Methods,Creativity-Specific Evaluation
+An integrated benchmark for verbal creativity testing of LLMs and humans,Anca Dinu and Andra Maria Florescu,2024,Creativity Evaluation Methods,Human Evaluation
+An integrated benchmark for verbal creativity testing of LLMs and humans,Anca Dinu and Andra Maria Florescu,2024,Model Scale,Small (<3B)
+An integrated benchmark for verbal creativity testing of LLMs and humans,Anca Dinu and Andra Maria Florescu,2024,Model Scale,Medium (8-24)
+An integrated benchmark for verbal creativity testing of LLMs and humans,Anca Dinu and Andra Maria Florescu,2024,Model Scale,Large (>32B)
+An integrated benchmark for verbal creativity testing of LLMs and humans,Anca Dinu and Andra Maria Florescu,2024,Proprietary Models,Google Gemini
+An integrated benchmark for verbal creativity testing of LLMs and humans,Anca Dinu and Andra Maria Florescu,2024,Human-In-The-Loop,Autonomous Generation
+Enhancing creativity in large language models through associative thinking strategies,Pronita Mehrotra et al.,2024,Creativity Frameworks,Linguistic Creativity
+Enhancing creativity in large language models through associative thinking strategies,Pronita Mehrotra et al.,2024,Creativity Frameworks,Logical Creativity
+Enhancing creativity in large language models through associative thinking strategies,Pronita Mehrotra et al.,2024,Relationship to Creativity,Explicit
+Enhancing creativity in large language models through associative thinking strategies,Pronita Mehrotra et al.,2024,Creative Phenomena Studied,Logics
+Enhancing creativity in large language models through associative thinking strategies,Pronita Mehrotra et al.,2024,Creativity Evaluation Methods,Automatic Metrics
+Enhancing creativity in large language models through associative thinking strategies,Pronita Mehrotra et al.,2024,Creativity Evaluation Methods,LLM-Based Evaluation
+Enhancing creativity in large language models through associative thinking strategies,Pronita Mehrotra et al.,2024,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Enhancing creativity in large language models through associative thinking strategies,Pronita Mehrotra et al.,2024,Creativity Evaluation Methods,Human Evaluation
+Enhancing creativity in large language models through associative thinking strategies,Pronita Mehrotra et al.,2024,Model Scale,Large (>32B)
+Enhancing creativity in large language models through associative thinking strategies,Pronita Mehrotra et al.,2024,Proprietary Models,OpenAI ChatGPT
+Enhancing creativity in large language models through associative thinking strategies,Pronita Mehrotra et al.,2024,Human-In-The-Loop,Autonomous Generation
+Enhancing creativity in large language models through associative thinking strategies,Pronita Mehrotra et al.,2024,Research Focus,Prompt Engineering
+Creativity has left the chat: The price of debiasing language models,Behnam Mohammadi,2024,Creativity Frameworks,Linguistic Creativity
+Creativity has left the chat: The price of debiasing language models,Behnam Mohammadi,2024,Relationship to Creativity,Explicit
+Creativity has left the chat: The price of debiasing language models,Behnam Mohammadi,2024,Creativity Evaluation Methods,Automatic Metrics
+Creativity has left the chat: The price of debiasing language models,Behnam Mohammadi,2024,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Creativity has left the chat: The price of debiasing language models,Behnam Mohammadi,2024,Human-In-The-Loop,Autonomous Generation
+Creativity has left the chat: The price of debiasing language models,Behnam Mohammadi,2024,Research Focus,Prompt Engineering
+Creativity has left the chat: The price of debiasing language models,Behnam Mohammadi,2024,Research Focus,Creativity-Oriented Training
+Creativity has left the chat: The price of debiasing language models,Behnam Mohammadi,2024,Level of Analysis,Document-Level
+CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation,Yujie Shao,2024,Creativity Frameworks,Linguistic Creativity
+CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation,Yujie Shao,2024,Relationship to Creativity,Implicit
+CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation,Yujie Shao,2024,Creative Phenomena Studied,Figurative Language
+CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation,Yujie Shao,2024,Creativity Evaluation Methods,Automatic Metrics
+CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation,Yujie Shao,2024,Creativity Evaluation Methods,Human Evaluation
+CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation,Yujie Shao,2024,Model Scale,Medium (8-24)
+CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation,Yujie Shao,2024,Model Scale,Large (>32B)
+CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation,Yujie Shao,2024,Proprietary Models,OpenAI ChatGPT
+CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation,Yujie Shao,2024,Human-In-The-Loop,Autonomous Generation
+CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation,Yujie Shao,2024,Research Focus,Prompt Engineering
+CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation,Yujie Shao,2024,Textual Domain,Literary Texts
+CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation,Yujie Shao,2024,Level of Analysis,Word-Level
+Exploring poetic creativity in large language models: a dynamic multi-agent framework for poem generation,Scarlet Weatherby et al.,2024,Creativity Frameworks,Linguistic Creativity
+Exploring poetic creativity in large language models: a dynamic multi-agent framework for poem generation,Scarlet Weatherby et al.,2024,Relationship to Creativity,Explicit
+Exploring poetic creativity in large language models: a dynamic multi-agent framework for poem generation,Scarlet Weatherby et al.,2024,Creativity Evaluation Methods,Automatic Metrics
+Exploring poetic creativity in large language models: a dynamic multi-agent framework for poem generation,Scarlet Weatherby et al.,2024,Human-In-The-Loop,Autonomous Generation
+Exploring poetic creativity in large language models: a dynamic multi-agent framework for poem generation,Scarlet Weatherby et al.,2024,Research Focus,Agent-Based Approaches
+Exploring poetic creativity in large language models: a dynamic multi-agent framework for poem generation,Scarlet Weatherby et al.,2024,Level of Analysis,Document-Level
+A robot walks into a bar: Can language models serve as creativity SupportTools for comedy? An evaluation of LLMs’ humour alignment with comedians,Piotr Mirowski et al.,2024,Creativity Frameworks,Linguistic Creativity
+A robot walks into a bar: Can language models serve as creativity SupportTools for comedy? An evaluation of LLMs’ humour alignment with comedians,Piotr Mirowski et al.,2024,Relationship to Creativity,Implicit
+A robot walks into a bar: Can language models serve as creativity SupportTools for comedy? An evaluation of LLMs’ humour alignment with comedians,Piotr Mirowski et al.,2024,Creative Phenomena Studied,Humor
+A robot walks into a bar: Can language models serve as creativity SupportTools for comedy? An evaluation of LLMs’ humour alignment with comedians,Piotr Mirowski et al.,2024,Creativity Evaluation Methods,Human Evaluation
+A robot walks into a bar: Can language models serve as creativity SupportTools for comedy? An evaluation of LLMs’ humour alignment with comedians,Piotr Mirowski et al.,2024,Model Scale,Large (>32B)
+A robot walks into a bar: Can language models serve as creativity SupportTools for comedy? An evaluation of LLMs’ humour alignment with comedians,Piotr Mirowski et al.,2024,Proprietary Models,Google Gemini
+A robot walks into a bar: Can language models serve as creativity SupportTools for comedy? An evaluation of LLMs’ humour alignment with comedians,Piotr Mirowski et al.,2024,Proprietary Models,OpenAI ChatGPT
+A robot walks into a bar: Can language models serve as creativity SupportTools for comedy? An evaluation of LLMs’ humour alignment with comedians,Piotr Mirowski et al.,2024,Human-In-The-Loop,Human–AI Co-Creation
+A robot walks into a bar: Can language models serve as creativity SupportTools for comedy? An evaluation of LLMs’ humour alignment with comedians,Piotr Mirowski et al.,2024,Level of Analysis,Document-Level
+Evaluating Diversity in Automatic Poetry Generation,Yanran Chen,2024,Creativity Frameworks,Computational Creativity
+Evaluating Diversity in Automatic Poetry Generation,Yanran Chen,2024,Creativity Frameworks,Linguistic Creativity
+Evaluating Diversity in Automatic Poetry Generation,Yanran Chen,2024,Relationship to Creativity,Implicit
+Evaluating Diversity in Automatic Poetry Generation,Yanran Chen,2024,Creativity Evaluation Methods,Automatic Metrics
+Evaluating Diversity in Automatic Poetry Generation,Yanran Chen,2024,Creativity Evaluation Methods,Human Evaluation
+Evaluating Diversity in Automatic Poetry Generation,Yanran Chen,2024,Model Scale,Large (>32B)
+Evaluating Diversity in Automatic Poetry Generation,Yanran Chen,2024,Proprietary Models,OpenAI ChatGPT
+Evaluating Diversity in Automatic Poetry Generation,Yanran Chen,2024,Human-In-The-Loop,Autonomous Generation
+Evaluating Diversity in Automatic Poetry Generation,Yanran Chen,2024,Textual Domain,Poetry
+Evaluating Diversity in Automatic Poetry Generation,Yanran Chen,2024,Level of Analysis,Document-Level
+Evaluating LLM Performance in Character Analysis: A Study of Artificial Beings in Recent Korean Science Fiction,Woori Jang,2024,Creativity Frameworks,Linguistic Creativity
+Evaluating LLM Performance in Character Analysis: A Study of Artificial Beings in Recent Korean Science Fiction,Woori Jang,2024,Relationship to Creativity,Implicit
+Evaluating LLM Performance in Character Analysis: A Study of Artificial Beings in Recent Korean Science Fiction,Woori Jang,2024,Creativity Evaluation Methods,Human Evaluation
+Evaluating LLM Performance in Character Analysis: A Study of Artificial Beings in Recent Korean Science Fiction,Woori Jang,2024,Model Scale,Large (>32B)
+Evaluating LLM Performance in Character Analysis: A Study of Artificial Beings in Recent Korean Science Fiction,Woori Jang,2024,Proprietary Models,OpenAI ChatGPT
+Evaluating LLM Performance in Character Analysis: A Study of Artificial Beings in Recent Korean Science Fiction,Woori Jang,2024,Proprietary Models,Anthropic Claude
+Evaluating LLM Performance in Character Analysis: A Study of Artificial Beings in Recent Korean Science Fiction,Woori Jang,2024,Human-In-The-Loop,Autonomous Generation
+Evaluating LLM Performance in Character Analysis: A Study of Artificial Beings in Recent Korean Science Fiction,Woori Jang,2024,Textual Domain,Literary Texts
+Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration,Zhenhailong Wang,2024,Creativity Frameworks,Logical Creativity
+Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration,Zhenhailong Wang,2024,Relationship to Creativity,Implicit
+Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration,Zhenhailong Wang,2024,Creative Phenomena Studied,Logics
+Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration,Zhenhailong Wang,2024,Creativity Evaluation Methods,Automatic Metrics
+Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration,Zhenhailong Wang,2024,Model Scale,Medium (8-24)
+Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration,Zhenhailong Wang,2024,Model Scale,Large (>32B)
+Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration,Zhenhailong Wang,2024,Proprietary Models,OpenAI ChatGPT
+Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration,Zhenhailong Wang,2024,Human-In-The-Loop,Autonomous Generation
+Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration,Zhenhailong Wang,2024,Research Focus,Prompt Engineering
+"""It Felt Like Having a Second Mind"": Investigating human-AI co-creativity in prewriting with large language models",Qian Wan et al.,2024,Creativity Frameworks,Linguistic Creativity
+"""It Felt Like Having a Second Mind"": Investigating human-AI co-creativity in prewriting with large language models",Qian Wan et al.,2024,Creativity Frameworks,Logical Creativity
+"""It Felt Like Having a Second Mind"": Investigating human-AI co-creativity in prewriting with large language models",Qian Wan et al.,2024,Relationship to Creativity,Explicit
+"""It Felt Like Having a Second Mind"": Investigating human-AI co-creativity in prewriting with large language models",Qian Wan et al.,2024,Creativity Evaluation Methods,Human Evaluation
+"""It Felt Like Having a Second Mind"": Investigating human-AI co-creativity in prewriting with large language models",Qian Wan et al.,2024,Model Scale,Large (>32B)
+"""It Felt Like Having a Second Mind"": Investigating human-AI co-creativity in prewriting with large language models",Qian Wan et al.,2024,Proprietary Models,OpenAI ChatGPT
+"""It Felt Like Having a Second Mind"": Investigating human-AI co-creativity in prewriting with large language models",Qian Wan et al.,2024,Human-In-The-Loop,Human–AI Co-Creation
+Pron vs Prompt: Can Large Language Models already Challenge a World-Class Fiction Author at Creative Text Writing?,Guillermo Marco,2024,Creativity Frameworks,Logical Creativity
+Pron vs Prompt: Can Large Language Models already Challenge a World-Class Fiction Author at Creative Text Writing?,Guillermo Marco,2024,Relationship to Creativity,Explicit
+Pron vs Prompt: Can Large Language Models already Challenge a World-Class Fiction Author at Creative Text Writing?,Guillermo Marco,2024,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Pron vs Prompt: Can Large Language Models already Challenge a World-Class Fiction Author at Creative Text Writing?,Guillermo Marco,2024,Creativity Evaluation Methods,Human Evaluation
+Pron vs Prompt: Can Large Language Models already Challenge a World-Class Fiction Author at Creative Text Writing?,Guillermo Marco,2024,Model Scale,Large (>32B)
+Pron vs Prompt: Can Large Language Models already Challenge a World-Class Fiction Author at Creative Text Writing?,Guillermo Marco,2024,Proprietary Models,Google Gemini
+Pron vs Prompt: Can Large Language Models already Challenge a World-Class Fiction Author at Creative Text Writing?,Guillermo Marco,2024,Proprietary Models,OpenAI ChatGPT
+Pron vs Prompt: Can Large Language Models already Challenge a World-Class Fiction Author at Creative Text Writing?,Guillermo Marco,2024,Proprietary Models,Anthropic Claude
+Pron vs Prompt: Can Large Language Models already Challenge a World-Class Fiction Author at Creative Text Writing?,Guillermo Marco,2024,Human-In-The-Loop,Autonomous Generation
+Pron vs Prompt: Can Large Language Models already Challenge a World-Class Fiction Author at Creative Text Writing?,Guillermo Marco,2024,Textual Domain,Literary Texts
+Do LLMs Generate Creative and Visually Accessible Data visualisations?,Clarissa Miranda-Pena,2024,Creativity Frameworks,Computational Creativity
+Do LLMs Generate Creative and Visually Accessible Data visualisations?,Clarissa Miranda-Pena,2024,Creativity Frameworks,Logical Creativity
+Do LLMs Generate Creative and Visually Accessible Data visualisations?,Clarissa Miranda-Pena,2024,Relationship to Creativity,Explicit
+Do LLMs Generate Creative and Visually Accessible Data visualisations?,Clarissa Miranda-Pena,2024,Creativity Evaluation Methods,Automatic Metrics
+Do LLMs Generate Creative and Visually Accessible Data visualisations?,Clarissa Miranda-Pena,2024,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Do LLMs Generate Creative and Visually Accessible Data visualisations?,Clarissa Miranda-Pena,2024,Creativity Evaluation Methods,Human Evaluation
+Do LLMs Generate Creative and Visually Accessible Data visualisations?,Clarissa Miranda-Pena,2024,Model Scale,Large (>32B)
+Do LLMs Generate Creative and Visually Accessible Data visualisations?,Clarissa Miranda-Pena,2024,Proprietary Models,OpenAI ChatGPT
+Do LLMs Generate Creative and Visually Accessible Data visualisations?,Clarissa Miranda-Pena,2024,Proprietary Models,Anthropic Claude
+Do LLMs Generate Creative and Visually Accessible Data visualisations?,Clarissa Miranda-Pena,2024,Human-In-The-Loop,Autonomous Generation
+Do LLMs Generate Creative and Visually Accessible Data visualisations?,Clarissa Miranda-Pena,2024,Research Focus,Prompt Engineering
+"Investigating Wit, Creativity, and Detectability of Large Language Models in Domain-Specific Writing Style Adaptation of Reddit’s Showerthoughts",Tolga Buz,2024,Creativity Frameworks,Linguistic Creativity
+"Investigating Wit, Creativity, and Detectability of Large Language Models in Domain-Specific Writing Style Adaptation of Reddit’s Showerthoughts",Tolga Buz,2024,Relationship to Creativity,Implicit
+"Investigating Wit, Creativity, and Detectability of Large Language Models in Domain-Specific Writing Style Adaptation of Reddit’s Showerthoughts",Tolga Buz,2024,Creativity Evaluation Methods,Human Evaluation
+"Investigating Wit, Creativity, and Detectability of Large Language Models in Domain-Specific Writing Style Adaptation of Reddit’s Showerthoughts",Tolga Buz,2024,Model Scale,Small (<3B)
+"Investigating Wit, Creativity, and Detectability of Large Language Models in Domain-Specific Writing Style Adaptation of Reddit’s Showerthoughts",Tolga Buz,2024,Model Scale,Large (>32B)
+"Investigating Wit, Creativity, and Detectability of Large Language Models in Domain-Specific Writing Style Adaptation of Reddit’s Showerthoughts",Tolga Buz,2024,Proprietary Models,OpenAI ChatGPT
+"Investigating Wit, Creativity, and Detectability of Large Language Models in Domain-Specific Writing Style Adaptation of Reddit’s Showerthoughts",Tolga Buz,2024,Human-In-The-Loop,Autonomous Generation
+"Investigating Wit, Creativity, and Detectability of Large Language Models in Domain-Specific Writing Style Adaptation of Reddit’s Showerthoughts",Tolga Buz,2024,Textual Domain,Literary Texts
+HW-TSC at SemEval-2024 Task 9: Exploring Prompt Engineering Strategies for Brain Teaser Puzzles Through LLMs,Yinglu Li,2024,Creativity Frameworks,Logical Creativity
+HW-TSC at SemEval-2024 Task 9: Exploring Prompt Engineering Strategies for Brain Teaser Puzzles Through LLMs,Yinglu Li,2024,Relationship to Creativity,Explicit
+HW-TSC at SemEval-2024 Task 9: Exploring Prompt Engineering Strategies for Brain Teaser Puzzles Through LLMs,Yinglu Li,2024,Creative Phenomena Studied,Logics
+HW-TSC at SemEval-2024 Task 9: Exploring Prompt Engineering Strategies for Brain Teaser Puzzles Through LLMs,Yinglu Li,2024,Human-In-The-Loop,Autonomous Generation
+HW-TSC at SemEval-2024 Task 9: Exploring Prompt Engineering Strategies for Brain Teaser Puzzles Through LLMs,Yinglu Li,2024,Research Focus,Prompt Engineering
+Prompting Large Language Models for Idiomatic Translation,Antonio Castaldo,2024,Creativity Frameworks,Linguistic Creativity
+Prompting Large Language Models for Idiomatic Translation,Antonio Castaldo,2024,Relationship to Creativity,Explicit
+Prompting Large Language Models for Idiomatic Translation,Antonio Castaldo,2024,Creative Phenomena Studied,Figurative Language
+Prompting Large Language Models for Idiomatic Translation,Antonio Castaldo,2024,Creativity Evaluation Methods,Automatic Metrics
+Prompting Large Language Models for Idiomatic Translation,Antonio Castaldo,2024,Creativity Evaluation Methods,Human Evaluation
+Prompting Large Language Models for Idiomatic Translation,Antonio Castaldo,2024,Model Scale,Large (>32B)
+Prompting Large Language Models for Idiomatic Translation,Antonio Castaldo,2024,Proprietary Models,OpenAI ChatGPT
+Prompting Large Language Models for Idiomatic Translation,Antonio Castaldo,2024,Human-In-The-Loop,Autonomous Generation
+Prompting Large Language Models for Idiomatic Translation,Antonio Castaldo,2024,Textual Domain,Literary Texts
+Prompting Large Language Models for Idiomatic Translation,Antonio Castaldo,2024,Level of Analysis,Sentence-Level
+MacGyver: Are Large Language Models Creative Problem Solvers?,Yufei Tian,2024,Creativity Frameworks,Logical Creativity
+MacGyver: Are Large Language Models Creative Problem Solvers?,Yufei Tian,2024,Relationship to Creativity,Implicit
+MacGyver: Are Large Language Models Creative Problem Solvers?,Yufei Tian,2024,Creative Phenomena Studied,Logics
+MacGyver: Are Large Language Models Creative Problem Solvers?,Yufei Tian,2024,Human-In-The-Loop,Autonomous Generation
+Collective Critics for Creative Story Generation,Minwook Bae,2024,Creativity Frameworks,Linguistic Creativity
+Collective Critics for Creative Story Generation,Minwook Bae,2024,Relationship to Creativity,Implicit
+Collective Critics for Creative Story Generation,Minwook Bae,2024,Creativity Evaluation Methods,Automatic Metrics
+Collective Critics for Creative Story Generation,Minwook Bae,2024,Creativity Evaluation Methods,LLM-Based Evaluation
+Collective Critics for Creative Story Generation,Minwook Bae,2024,Creativity Evaluation Methods,Human Evaluation
+Collective Critics for Creative Story Generation,Minwook Bae,2024,Model Scale,Large (>32B)
+Collective Critics for Creative Story Generation,Minwook Bae,2024,Proprietary Models,OpenAI ChatGPT
+Collective Critics for Creative Story Generation,Minwook Bae,2024,Human-In-The-Loop,Autonomous Generation
+Collective Critics for Creative Story Generation,Minwook Bae,2024,Research Focus,Agent-Based Approaches
+"Subjective Topic meets LLMs: Unleashing Comprehensive, Reflective and Creative Thinking through the Negation of Negation",Fangrui Lv,2024,Creativity Frameworks,Logical Creativity
+"Subjective Topic meets LLMs: Unleashing Comprehensive, Reflective and Creative Thinking through the Negation of Negation",Fangrui Lv,2024,Relationship to Creativity,Implicit
+"Subjective Topic meets LLMs: Unleashing Comprehensive, Reflective and Creative Thinking through the Negation of Negation",Fangrui Lv,2024,Model Scale,Medium (8-24)
+"Subjective Topic meets LLMs: Unleashing Comprehensive, Reflective and Creative Thinking through the Negation of Negation",Fangrui Lv,2024,Model Scale,Large (>32B)
+"Subjective Topic meets LLMs: Unleashing Comprehensive, Reflective and Creative Thinking through the Negation of Negation",Fangrui Lv,2024,Proprietary Models,OpenAI ChatGPT
+"Subjective Topic meets LLMs: Unleashing Comprehensive, Reflective and Creative Thinking through the Negation of Negation",Fangrui Lv,2024,Human-In-The-Loop,Autonomous Generation
+"Subjective Topic meets LLMs: Unleashing Comprehensive, Reflective and Creative Thinking through the Negation of Negation",Fangrui Lv,2024,Research Focus,Creativity-Oriented Training
+The Translator’s Canvas: Using LLMs to Enhance Poetry Translation,Natália Resende,2024,Creativity Frameworks,Linguistic Creativity
+The Translator’s Canvas: Using LLMs to Enhance Poetry Translation,Natália Resende,2024,Relationship to Creativity,Implicit
+The Translator’s Canvas: Using LLMs to Enhance Poetry Translation,Natália Resende,2024,Creative Phenomena Studied,Figurative Language
+The Translator’s Canvas: Using LLMs to Enhance Poetry Translation,Natália Resende,2024,Creativity Evaluation Methods,Automatic Metrics
+The Translator’s Canvas: Using LLMs to Enhance Poetry Translation,Natália Resende,2024,Model Scale,Large (>32B)
+The Translator’s Canvas: Using LLMs to Enhance Poetry Translation,Natália Resende,2024,Proprietary Models,Google Gemini
+The Translator’s Canvas: Using LLMs to Enhance Poetry Translation,Natália Resende,2024,Proprietary Models,OpenAI ChatGPT
+The Translator’s Canvas: Using LLMs to Enhance Poetry Translation,Natália Resende,2024,Human-In-The-Loop,Autonomous Generation
+The Translator’s Canvas: Using LLMs to Enhance Poetry Translation,Natália Resende,2024,Textual Domain,Poetry
+Do LLMs Plan Like Human Writers? Comparing Journalist Coverage of Press Releases with LLMs,Alexander Spangher,2024,Creativity Frameworks,Computational Creativity
+Do LLMs Plan Like Human Writers? Comparing Journalist Coverage of Press Releases with LLMs,Alexander Spangher,2024,Relationship to Creativity,Implicit
+Do LLMs Plan Like Human Writers? Comparing Journalist Coverage of Press Releases with LLMs,Alexander Spangher,2024,Creativity Evaluation Methods,Automatic Metrics
+Do LLMs Plan Like Human Writers? Comparing Journalist Coverage of Press Releases with LLMs,Alexander Spangher,2024,Model Scale,Large (>32B)
+Do LLMs Plan Like Human Writers? Comparing Journalist Coverage of Press Releases with LLMs,Alexander Spangher,2024,Proprietary Models,OpenAI ChatGPT
+Do LLMs Plan Like Human Writers? Comparing Journalist Coverage of Press Releases with LLMs,Alexander Spangher,2024,Human-In-The-Loop,Autonomous Generation
+NewsMet : A ‘do it all’ Dataset of Contemporary Metaphors in News Headlines,Rohan Joseph,2023,Creativity Frameworks,Linguistic Creativity
+NewsMet : A ‘do it all’ Dataset of Contemporary Metaphors in News Headlines,Rohan Joseph,2023,Relationship to Creativity,Implicit
+NewsMet : A ‘do it all’ Dataset of Contemporary Metaphors in News Headlines,Rohan Joseph,2023,Creative Phenomena Studied,Figurative Language
+NewsMet : A ‘do it all’ Dataset of Contemporary Metaphors in News Headlines,Rohan Joseph,2023,Creativity Evaluation Methods,Human Evaluation
+NewsMet : A ‘do it all’ Dataset of Contemporary Metaphors in News Headlines,Rohan Joseph,2023,Model Scale,Small (<3B)
+NewsMet : A ‘do it all’ Dataset of Contemporary Metaphors in News Headlines,Rohan Joseph,2023,Human-In-The-Loop,Autonomous Generation
+Does the “Most Sinfully Decadent Cake Ever” Taste Good? Answering Yes/No Questions from Figurative Contexts,Geetanjali Rakshit,2023,Creativity Frameworks,Linguistic Creativity
+Does the “Most Sinfully Decadent Cake Ever” Taste Good? Answering Yes/No Questions from Figurative Contexts,Geetanjali Rakshit,2023,Relationship to Creativity,Implicit
+Does the “Most Sinfully Decadent Cake Ever” Taste Good? Answering Yes/No Questions from Figurative Contexts,Geetanjali Rakshit,2023,Creative Phenomena Studied,Figurative Language
+Does the “Most Sinfully Decadent Cake Ever” Taste Good? Answering Yes/No Questions from Figurative Contexts,Geetanjali Rakshit,2023,Creativity Evaluation Methods,Human Evaluation
+Does the “Most Sinfully Decadent Cake Ever” Taste Good? Answering Yes/No Questions from Figurative Contexts,Geetanjali Rakshit,2023,Model Scale,Small (<3B)
+Does the “Most Sinfully Decadent Cake Ever” Taste Good? Answering Yes/No Questions from Figurative Contexts,Geetanjali Rakshit,2023,Model Scale,Large (>32B)
+Does the “Most Sinfully Decadent Cake Ever” Taste Good? Answering Yes/No Questions from Figurative Contexts,Geetanjali Rakshit,2023,Proprietary Models,OpenAI ChatGPT
+Does the “Most Sinfully Decadent Cake Ever” Taste Good? Answering Yes/No Questions from Figurative Contexts,Geetanjali Rakshit,2023,Human-In-The-Loop,Autonomous Generation
+Does the “Most Sinfully Decadent Cake Ever” Taste Good? Answering Yes/No Questions from Figurative Contexts,Geetanjali Rakshit,2023,Level of Analysis,Sentence-Level
+Probing the “Creativity” of Large Language Models: Can models produce divergent semantic association?,Honghua Chen,2023,Creativity Frameworks,Logical Creativity
+Probing the “Creativity” of Large Language Models: Can models produce divergent semantic association?,Honghua Chen,2023,Relationship to Creativity,Explicit
+Probing the “Creativity” of Large Language Models: Can models produce divergent semantic association?,Honghua Chen,2023,Creative Phenomena Studied,Logics
+Probing the “Creativity” of Large Language Models: Can models produce divergent semantic association?,Honghua Chen,2023,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Probing the “Creativity” of Large Language Models: Can models produce divergent semantic association?,Honghua Chen,2023,Model Scale,Large (>32B)
+Probing the “Creativity” of Large Language Models: Can models produce divergent semantic association?,Honghua Chen,2023,Proprietary Models,OpenAI ChatGPT
+Probing the “Creativity” of Large Language Models: Can models produce divergent semantic association?,Honghua Chen,2023,Human-In-The-Loop,Autonomous Generation
+Probing the “Creativity” of Large Language Models: Can models produce divergent semantic association?,Honghua Chen,2023,Research Focus,Prompt Engineering
+Multilingual semantic distance: Automatic verbal creativity assessment in many languages.,John D. Patterson et al.,2023,Creativity Frameworks,Logical Creativity
+Multilingual semantic distance: Automatic verbal creativity assessment in many languages.,John D. Patterson et al.,2023,Relationship to Creativity,Implicit
+Multilingual semantic distance: Automatic verbal creativity assessment in many languages.,John D. Patterson et al.,2023,Creativity Evaluation Methods,Automatic Metrics
+Multilingual semantic distance: Automatic verbal creativity assessment in many languages.,John D. Patterson et al.,2023,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Multilingual semantic distance: Automatic verbal creativity assessment in many languages.,John D. Patterson et al.,2023,Creativity Evaluation Methods,Human Evaluation
+Multilingual semantic distance: Automatic verbal creativity assessment in many languages.,John D. Patterson et al.,2023,Model Scale,Small (<3B)
+Multilingual semantic distance: Automatic verbal creativity assessment in many languages.,John D. Patterson et al.,2023,Human-In-The-Loop,Autonomous Generation
+Let's think outside the box: Exploring leap-of-thought in large language models with creative humor generation,Shanshan Zhong,2023,Creativity Frameworks,Logical Creativity
+Let's think outside the box: Exploring leap-of-thought in large language models with creative humor generation,Shanshan Zhong,2023,Relationship to Creativity,Implicit
+Let's think outside the box: Exploring leap-of-thought in large language models with creative humor generation,Shanshan Zhong,2023,Creative Phenomena Studied,Humor
+Let's think outside the box: Exploring leap-of-thought in large language models with creative humor generation,Shanshan Zhong,2023,Creativity Evaluation Methods,Automatic Metrics
+Let's think outside the box: Exploring leap-of-thought in large language models with creative humor generation,Shanshan Zhong,2023,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Let's think outside the box: Exploring leap-of-thought in large language models with creative humor generation,Shanshan Zhong,2023,Creativity Evaluation Methods,Human Evaluation
+Let's think outside the box: Exploring leap-of-thought in large language models with creative humor generation,Shanshan Zhong,2023,Model Scale,Medium (8-24)
+Let's think outside the box: Exploring leap-of-thought in large language models with creative humor generation,Shanshan Zhong,2023,Model Scale,Large (>32B)
+Let's think outside the box: Exploring leap-of-thought in large language models with creative humor generation,Shanshan Zhong,2023,Proprietary Models,OpenAI ChatGPT
+Let's think outside the box: Exploring leap-of-thought in large language models with creative humor generation,Shanshan Zhong,2023,Human-In-The-Loop,Autonomous Generation
+Let's think outside the box: Exploring leap-of-thought in large language models with creative humor generation,Shanshan Zhong,2023,Research Focus,Prompt Engineering
+Let's think outside the box: Exploring leap-of-thought in large language models with creative humor generation,Shanshan Zhong,2023,Research Focus,Creativity-Oriented Training
+Let's think outside the box: Exploring leap-of-thought in large language models with creative humor generation,Shanshan Zhong,2023,Research Focus,Architectural Research
+Let's think outside the box: Exploring leap-of-thought in large language models with creative humor generation,Shanshan Zhong,2023,Level of Analysis,Sentence-Level
+A Confederacy of Models: a Comprehensive Evaluation of LLMs on Creative Writing,Carlos Gómez-Rodríguez,2023,Creativity Frameworks,Linguistic Creativity
+A Confederacy of Models: a Comprehensive Evaluation of LLMs on Creative Writing,Carlos Gómez-Rodríguez,2023,Relationship to Creativity,Explicit
+A Confederacy of Models: a Comprehensive Evaluation of LLMs on Creative Writing,Carlos Gómez-Rodríguez,2023,Creative Phenomena Studied,Humor
+A Confederacy of Models: a Comprehensive Evaluation of LLMs on Creative Writing,Carlos Gómez-Rodríguez,2023,Creativity Evaluation Methods,Creativity-Specific Evaluation
+A Confederacy of Models: a Comprehensive Evaluation of LLMs on Creative Writing,Carlos Gómez-Rodríguez,2023,Creativity Evaluation Methods,Human Evaluation
+A Confederacy of Models: a Comprehensive Evaluation of LLMs on Creative Writing,Carlos Gómez-Rodríguez,2023,Model Scale,Large (>32B)
+A Confederacy of Models: a Comprehensive Evaluation of LLMs on Creative Writing,Carlos Gómez-Rodríguez,2023,Proprietary Models,OpenAI ChatGPT
+A Confederacy of Models: a Comprehensive Evaluation of LLMs on Creative Writing,Carlos Gómez-Rodríguez,2023,Proprietary Models,Anthropic Claude
+A Confederacy of Models: a Comprehensive Evaluation of LLMs on Creative Writing,Carlos Gómez-Rodríguez,2023,Human-In-The-Loop,Autonomous Generation
+A Confederacy of Models: a Comprehensive Evaluation of LLMs on Creative Writing,Carlos Gómez-Rodríguez,2023,Textual Domain,Literary Texts
+Unmet Creativity Support Needs in Computationally Supported Creative Writing,Max Kreminski,2022,Creativity Frameworks,Computational Creativity
+Unmet Creativity Support Needs in Computationally Supported Creative Writing,Max Kreminski,2022,Creativity Frameworks,Linguistic Creativity
+Unmet Creativity Support Needs in Computationally Supported Creative Writing,Max Kreminski,2022,Creativity Frameworks,Logical Creativity
+Unmet Creativity Support Needs in Computationally Supported Creative Writing,Max Kreminski,2022,Relationship to Creativity,Implicit
+Unmet Creativity Support Needs in Computationally Supported Creative Writing,Max Kreminski,2022,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Unmet Creativity Support Needs in Computationally Supported Creative Writing,Max Kreminski,2022,Human-In-The-Loop,Human–AI Co-Creation
+Putting GPT-3's creativity to the (alternative uses) test,Claire Stevenson et al.,2022,Creativity Frameworks,Logical Creativity
+Putting GPT-3's creativity to the (alternative uses) test,Claire Stevenson et al.,2022,Relationship to Creativity,Explicit
+Putting GPT-3's creativity to the (alternative uses) test,Claire Stevenson et al.,2022,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Putting GPT-3's creativity to the (alternative uses) test,Claire Stevenson et al.,2022,Creativity Evaluation Methods,Human Evaluation
+Putting GPT-3's creativity to the (alternative uses) test,Claire Stevenson et al.,2022,Model Scale,Large (>32B)
+Putting GPT-3's creativity to the (alternative uses) test,Claire Stevenson et al.,2022,Human-In-The-Loop,Autonomous Generation
+Scientific and Creative Analogies in Pretrained Language Models,Tamara Czinczoll,2022,Creativity Frameworks,Linguistic Creativity
+Scientific and Creative Analogies in Pretrained Language Models,Tamara Czinczoll,2022,Relationship to Creativity,Implicit
+Scientific and Creative Analogies in Pretrained Language Models,Tamara Czinczoll,2022,Creative Phenomena Studied,Logics
+Scientific and Creative Analogies in Pretrained Language Models,Tamara Czinczoll,2022,Creativity Evaluation Methods,Automatic Metrics
+Scientific and Creative Analogies in Pretrained Language Models,Tamara Czinczoll,2022,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Scientific and Creative Analogies in Pretrained Language Models,Tamara Czinczoll,2022,Model Scale,Medium (8-24)
+Scientific and Creative Analogies in Pretrained Language Models,Tamara Czinczoll,2022,Human-In-The-Loop,Autonomous Generation
+Scientific and Creative Analogies in Pretrained Language Models,Tamara Czinczoll,2022,Research Focus,Architectural Research
+Scientific and Creative Analogies in Pretrained Language Models,Tamara Czinczoll,2022,Level of Analysis,Word-Level
+Plug-and-Play Controller for Story Completion: A Pilot Study toward Emotion-aware Story Writing Assistance,Yusuke Mori,2022,Creativity Frameworks,Linguistic Creativity
+Plug-and-Play Controller for Story Completion: A Pilot Study toward Emotion-aware Story Writing Assistance,Yusuke Mori,2022,Relationship to Creativity,Implicit
+Plug-and-Play Controller for Story Completion: A Pilot Study toward Emotion-aware Story Writing Assistance,Yusuke Mori,2022,Creativity Evaluation Methods,Automatic Metrics
+Plug-and-Play Controller for Story Completion: A Pilot Study toward Emotion-aware Story Writing Assistance,Yusuke Mori,2022,Model Scale,Small (<3B)
+Plug-and-Play Controller for Story Completion: A Pilot Study toward Emotion-aware Story Writing Assistance,Yusuke Mori,2022,Human-In-The-Loop,Human–AI Co-Creation
+Plug-and-Play Controller for Story Completion: A Pilot Study toward Emotion-aware Story Writing Assistance,Yusuke Mori,2022,Textual Domain,Literary Texts
+Story Centaur: Large Language Model Few Shot Learning as a Creative Writing Tool,Ben Swanson,2021,Creativity Frameworks,Linguistic Creativity
+Story Centaur: Large Language Model Few Shot Learning as a Creative Writing Tool,Ben Swanson,2021,Relationship to Creativity,Implicit
+Story Centaur: Large Language Model Few Shot Learning as a Creative Writing Tool,Ben Swanson,2021,Model Scale,Large (>32B)
+Story Centaur: Large Language Model Few Shot Learning as a Creative Writing Tool,Ben Swanson,2021,Human-In-The-Loop,Human–AI Co-Creation
+Ranking creative language characteristics in small data scenarios,Julia Siekiera,2020,Creativity Frameworks,Computational Creativity
+Ranking creative language characteristics in small data scenarios,Julia Siekiera,2020,Creativity Frameworks,Linguistic Creativity
+Ranking creative language characteristics in small data scenarios,Julia Siekiera,2020,Relationship to Creativity,Implicit
+Ranking creative language characteristics in small data scenarios,Julia Siekiera,2020,Creative Phenomena Studied,Figurative Language
+Ranking creative language characteristics in small data scenarios,Julia Siekiera,2020,Creative Phenomena Studied,Wordplay
+Ranking creative language characteristics in small data scenarios,Julia Siekiera,2020,Creative Phenomena Studied,Humor
+Ranking creative language characteristics in small data scenarios,Julia Siekiera,2020,Creativity Evaluation Methods,Automatic Metrics
+Ranking creative language characteristics in small data scenarios,Julia Siekiera,2020,Creativity Evaluation Methods,Creativity-Specific Evaluation
+Ranking creative language characteristics in small data scenarios,Julia Siekiera,2020,Creativity Evaluation Methods,Human Evaluation
+Ranking creative language characteristics in small data scenarios,Julia Siekiera,2020,Model Scale,Small (<3B)
+Ranking creative language characteristics in small data scenarios,Julia Siekiera,2020,Human-In-The-Loop,Autonomous Generation
+Ranking creative language characteristics in small data scenarios,Julia Siekiera,2020,Research Focus,Architectural Research
+Ranking creative language characteristics in small data scenarios,Julia Siekiera,2020,Textual Domain,Literary Texts
